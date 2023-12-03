@@ -1,0 +1,7447 @@
+nvim .config/nushell/
+helix .config/nushell/
+echo $EDITOR
+echo ${EDITOR}
+echo EDITOR
+echo $EDITOR
+helix .config/nushell/
+C
+config nu
+supergfxctl -g
+pavucontrol 
+gtk4-launch 
+nvim .config/hypr/hyprland.conf
+cbonsai
+supergfxd 
+nvim .config/hypr/hyprland.conf
+nu btop
+firefox
+nu config
+pacman -S startship
+sudo pacman -S startship
+sudo pacman -S starship
+nu.env-path
+$nu.env-path
+mkdir ~/.cache/starship
+starship init nu | save ~/.cache/starship/init.nu
+source ~/.cache/starship/init.nu
+mkdir -p ~/.config && touch ~/.config/starship.toml
+mkdir -p ~/.config ; touch ~/.config/starship.toml
+touch ~/.config/starship.toml
+nvim .config/starship.toml
+config nu
+nvim .config/starship.toml
+source ~/.cache/starship/init.nu
+nvim .config/starship.toml
+starship init nu | save ~/.cache/starship/init.nu
+starship init nu | save ~/.cache/starship/init.nu -f
+source ~/.cache/starship/init.nu
+config nu 
+nvim .config/starship.toml
+ls
+nvim .config/starship.toml
+ls
+nvim .config/kitty/kitty.conf
+nvim .config/starship.toml
+nvim .config/hypr/hyprland.conf
+starship preset pure-preset > ~/.config/starship.toml
+ls
+git
+ls
+sudo pacman -Syu
+ls
+sudo pacman -R nvim
+sudo pacman -R neovim
+pavucontrol 
+gtk3
+nvim .config/gtk-4.0/
+nvim .config/gtk-4.0/settings.ini
+pavucontrol 
+nvim .config/hypr/hyprland.conf
+sudo pacman -R pavucontrol
+blueman-manager 
+nvim .config/kitty/kitty.conf
+helix .config/kitty/kitty.conf
+nvim .config/hypr/hyprland.conf
+firefox
+firefo
+fiefo
+fiefox
+firefox
+helix .config/kitty/kitty.conf
+nvim .config/hypr/hyprland.conf
+helix .config/hypr/hyprland.conf
+kitty
+firefox
+nvim .config/hypr/hyprland.conf
+pulsemixer 
+nvim .config/hypr/hyprland.conf
+nvim .config/hypr/hyprland.conf
+firefox
+nvim .config/hypr/hyprland.conf
+firefox
+nvim .config/hypr/hyprland.conf
+light -S 10
+light -S 1
+light -S 100
+helix .config/starship.toml
+:w
+cd Downloads/
+helix .config/hypr/hyprland.conf
+curl -L https://raw.githubusercontent.com/rust-lang/rustlings/main/install.sh | bash
+ls
+mv rustlings/ Projects/
+ls
+cd Projects/
+ls
+cd rustlings/
+ls
+cd ..
+l
+cd rustlings/exercises/
+rustlingss watch
+.cargo/bin/rustlings watch
+cd Projects/rustlings/
+.cargo/bin/rustlings watch
+~/.cargo/bin/rustlings
+helix Projects/rustlings/exercises/intro/intro1.rs
+helix Projects/rustlings/exercises/intro/intro2.rs
+helix Projects/rustlings/exercises/variables/variables1.rs
+helix Projects/rustlings/exercises/variables/variables2.rs
+helix Projects/rustlings/exercises/variables/variables3.rs
+helix Projects/rustlings/exercises/variables/variables4.rs
+helix Projects/rustlings/exercises/variables/variables5.rs
+helix Projects/rustlings/exercises/variables/variables6.rs
+helix Projects/rustlings/exercises/variables/variables5.rs
+helix Projects/rustlings/exercises/variables/variables6.rs
+helix Projects/rustlings/exercises/functions/functions1.rs
+helix Projects/rustlings/exercises/functions/functions2
+helix Projects/rustlings/exercises/functions/functions2.rs
+helix Projects/rustlings/exercises/functions/functions3.rs
+helix Projects/rustlings/exercises/functions/functions4.rs
+helix Projects/rustlings/exercises/functions/functions5.rs
+helix Projects/rustlings/exercises/if/if1.rs
+cd Projects/
+ls
+mkdir Scripts
+cd Scripts/
+ls
+mkdir IntoTheDeep.txt
+rm IntoTheDeep.txt/
+touch IntoTheDeep.md
+nvim IntoTheDeep.md
+helix IntoTheBlue.md
+mv IntoTheBlue.md IntoTheBlue_Notes.md
+blueman-manager
+supergfxctl -g
+~/.cargo/bin/rustlings watch
+blueman-manager
+light -S 1
+ls
+cd Projects/
+l
+ls
+date
+bop
+supergfxctl -m integrated
+bto
+powertop
+sudo helix /etc/default/grub
+powerd
+nvidia-powerd 
+sudo btop
+sudo powertop
+sudo systemctl stop nvidia-powerd.service
+sudo systemctl mask nvidia-powerd.service
+light -S 1
+supergfxctl -h
+rog-control-center 
+asusctl -h
+asusctl -k low
+asusctl -k off
+asusctl -k on
+asusctl -k low
+asusctl -k off
+supergfxctl -g
+asusctl -k off
+light -S 1
+light -S 100
+sudo powertop
+supergfxctl -m hybrid
+supergfxctl -g
+supergfxctl -m integrated
+light -S 1
+supergfxctl -g 
+supergfxctl -m hybrid
+asusctl -k light
+asusctl -k mid
+asusctl -
+asusctl -h
+asusctl -k low
+ls
+cd Projects/Software/
+mkdir carp
+cargo new
+cargo -h
+cargo init carp/
+ls
+cd carp/
+ls
+cargo install dioxus-cli
+ls
+cargo add dioxus
+cargo add dioxus-web
+ls
+cd src/
+ls
+helix main.rs
+dioxus serve
+cd ..
+dioxus serve
+cd ..
+ls
+rm -rf carp
+cargo new --bin demo
+cd demo/
+ls
+cargo add dioxus
+cargo add dioxus-web
+helix mai
+helix src/main.rs
+dioxus serve
+cd ll
+cd ..
+dioxus
+cargo install dioxus-cli
+rustup target add wasm32-unknown-unknown
+cargo install dioxus-cli
+rustup install dioxus-cli
+rustup add dioxus-cli
+rustup --help
+dioxus-cli
+dioxus
+cargo install dioxus
+cargo update
+ls
+cd ..
+cd ~/
+ls
+cargo install dioxus-cli
+dioxus
+cargo update
+cargo --help
+cd Projects/Software/demo/
+~/.cargo/bin/dioxus serve
+cd ..
+ls
+cd ..
+ls
+curl -fsSL https://get.pnpm.io/install.sh | sh -
+source /home/slworp/.bashrc
+pnpm
+cd Projects/Software/
+;s
+ls
+rm -rf demo
+;s
+ls
+mkdir carp
+cd carp/
+ls
+home.html
+touch home.html
+helix home.html
+ls
+mkdir lib
+mv lib src/
+ls
+cd src/
+ls
+mkdir css
+mkdir static
+mv static/ assets/
+ls
+mv assets/ scripts/
+ls
+helix ../home.html
+ls
+cd css/
+touch style.css
+helix style.css
+cd ..
+ls
+cd ..
+ls
+mv home.html index.html
+cd ~/
+ls
+python3 -m http.server
+cd Projects/Software/carp/
+python3 -m http.server
+ls
+cd src/
+ls
+helix style.css
+cd Projects/Software/carp/
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+helix ../index.html
+helix css/style.css
+python3 -m http.server
+helix ../index.html
+python3 -m http.server
+helix css/style.css
+helix ../index.html
+:wq
+cd Projects/Scripts/
+mkdir RedRock
+cd RedRock/
+touch OpeningMonologue.md
+lU
+lls
+ls
+cd Projects/Software/carp/src/
+ls
+cd scripts/
+ls
+touch Element.js
+helix .config/hypr/hyprland.conf
+cd Projects/Software/carp/
+ls
+cd Projects/Software/carp/
+kitty -e helix index.html
+kitty -e helix index.html &
+kitty -e helix index.html & disown
+kitty -h
+kitty -d .
+kitty -d . & disown
+cd Projects/Software/carp/src/
+ls
+cd Projects/Software/carp/src/
+helix css/style.css
+ls
+cd src/css/
+cd Projects/Software/carp/
+python3 -m http.server
+helix style.css
+helix scripts/main.js
+python3 -m http.server
+helix Projects/Software/carp/index.html
+helix style.css
+paru -S vscode-css-language-server
+paru -S vscode-css-languageservice
+helix .config/helix/config.toml
+paru -S vscode-css-languageserver
+paru -Sy vscode-css-languageserver
+helix Projects/LearnRust/
+paru -Sy vscode-css-languageserver
+helix style.css
+ls
+cd Projects/Software/carp/
+helix Projects/Software/carp/src/scripts/main.js
+python3 -m http.server
+helix Projects/Software/carp/src/scripts/main.js
+ls
+cd Projects/Software/carp/
+ls
+cd Projects/Software/
+git clone https://github.com/Vehrik/Carp
+ls
+cd Carp/
+ls
+cd carp/
+ls
+mv * ..
+ls
+cd ..
+ls
+rm -rf carp/
+git push
+paru -Sy git
+git push
+paru -Sy git-credential-manager
+paru -Sy git-credential-manager-core
+paru -Sy secret-service-bin
+ls
+git push
+gcm
+git config --global credential.credentialStore secretservice
+git push
+ git add *
+ git add -a
+ git add -A
+git commit 
+git config --global user.email "jblakenutt@gmail.com"
+git config --global user.name "vehrik"
+ls
+git push
+cd Projects/Software/
+cd Carp/
+ls
+git push
+gcm
+git-credential-manager-core 
+git-credential-manager-core configure
+git-credential-manager-core 
+git-credential-manager-core store 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
+git-credential-manager-core store
+git-credential-manager-core store -?
+git-credential-manager-core
+git-credential-manager-core store git
+git-credential-manager-core store 
+git-credential-manager-core store git
+git-credential-manager-core store
+git -h
+git push 
+secretserviced 
+secretserviced -h
+secret-tool 
+secret-tool store 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
+secret-tool store --label='git' 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
+git push 
+sudo git push
+gh auth login
+paru -Sy github-cli
+gh auth login
+ls
+git push
+gh -h
+gh api
+gh push 
+gh auth
+gh auth login
+git push
+paru -R git-credential-manager-core
+git push
+git config
+ls
+cd ..
+ls
+rm -rf carp/
+git push
+ls
+cd Carp/
+ls
+git push
+paru -Sy git
+git push
+helix ~/.gitconfig
+git push
+gh auth login
+gh push
+gh browse
+gh repo
+gh sync
+gh repo sync
+gh repo stash
+gh repo
+gh repo create
+ls
+git branch ui
+ls
+git checkout
+git -h
+git branch
+git switch ui
+ls
+helix LICENSE
+git push
+gh sync
+gh repo sync
+git branch main
+git switch main
+gh repo sync
+gh repo
+gh view
+gh repo view
+gh repo sync
+git push --set-upstream origin master
+git push --set-upstream main master
+git push --set-upstream origin main
+gh repo sync
+ls
+git stash
+gh repo sync
+git unstash
+git --help
+git --help -a
+git stash apply
+git commit 
+git commit -a
+git commit -h
+git commit -a
+git commit
+git commit -a
+git push
+ls
+git commit -a
+helix .git/config
+helix ~/.gitconfig
+git config --global core.editor helix
+git commit -a
+git branch ui
+git switch ui
+git commit -a
+ls
+cd ..
+ls
+cd Carp/
+ls
+git switch main
+ls
+cd ..
+ls
+mv Carp carp
+cp carp Carp
+cp carp Carp --recursive
+ls
+cd Carp/
+ls
+cd ..
+ls
+rm -rf Carp
+ls
+cd carp/
+ls
+cd ..
+cp carp Carp --recursive
+ls
+rm -rf carp
+ls
+cd Carp/
+ls
+gh 
+gh repo 
+gh repo create
+git remote add origin https://github.com/Vehrik/Carp.git
+git branch -M main
+git push -u origin main
+cd Projects/Software/Carp/src/scripts
+ls
+gh repo create
+ls
+gh repo sync
+gh repo sync --force
+ls
+gh repo
+gh repo create
+git commit -a
+git push
+git pull
+ls
+cd ..
+ls
+cp Carp/ Carp_Backup
+cp Carp/ --recursive
+cp Carp/ CarpB/ --recursive
+cp Carp/ CarpB --recursive
+ls
+cd Carp/
+ls
+git commit -a
+git push
+git pull -A
+git pull -w
+git pull -q
+git pull -a
+git config pull.rebase false
+git pull -a
+ls
+sudo ls
+gh repo create
+git init
+gh repo create
+git commit -a
+ls
+git add -a
+git add -A
+git commit -a
+git push
+git push --set-upstream origin main
+git push --set-upstream remote main
+git push
+git push --set-upstream origin master
+ls
+git branch ui
+ls
+paru -Sy typescript-language-server
+helix TodayGoals.md
+mv TodayGoals.md CurrentTasks.md
+supergfxctl -g
+cd Projects/Software/Carp/src/scripts
+ls
+helix main.js
+helix .config/helix/config.toml
+npm install --save-dev --save-exact prettier
+pnpm install --save-dev --save-exact prettier
+paru -Sy npm
+npm install --save-dev --save-exact prettier
+npm install -g npm@9.5.1
+sudo npm install --save-dev --save-exact prettier
+npm install --save-dev --save-exact prettier
+helix .config/helix/languages.toml
+prettier
+npm install --save-dev --save-exact prettier
+echo {}> .prettierrc.json
+touch .prettierrc.json
+npx prettier
+cd Projects/Software/Carp/src/scripts
+npx prettier --write .
+helix main.js
+nu -h
+nu --config
+helox .config/nushell/env.nu
+helix .config/nushell/env.nu
+npx -h
+helix .prettierrc.json
+helix --tutor
+cd Projects/Software/Carp/
+ls
+gh repo add *
+git branch 
+git branch ui
+git switch ui
+helix src/main.rs
+helix src/scripts/main.js
+cd ..
+ls
+cd Carp/
+ls
+git add -A
+git commit -a
+git push
+git push --set-upstream origin master
+git commit -a
+git push --set-upstream origin master
+git push
+git switch main
+git switch 
+git switch master
+git merge ui
+git commit -a
+git push
+cd Projects/Software/Carp/
+ls
+helix src/scripts/main.js
+git commit -a
+git push
+helix src/scripts/main.js
+python3 -m http.server
+ls
+cd node_modules/
+ls
+npx -h
+npm -help
+npm help config
+ ls
+whatis prettier/
+whatis prettier
+felix
+ls
+cd ..
+ls
+mkdir Tools
+ls
+mv Tools/ Utils/
+ls
+npm config set prefix "$HOME/Utils/node_modules"
+mv node_modules/ Utils/
+ls
+mv package.json Utils/
+mv package-lock.json Utils/
+npx prettier
+npm update
+npx prettier
+npm config set prefix "$HOME/Utils/node_modules"
+npm config ls -;
+npm config ls -l
+npm config set prefix "~/Utils/node_modules"
+npm config ls -
+npx prettier
+cd Utils/
+ls
+cd node_modules/.cache/prettier
+ls
+cd .. ..
+cd ....
+cd ..
+ls
+cd sddm/
+ls
+cd src/
+ls
+cd ..
+cd assets/
+;s
+ls
+cd ..
+rm -rf sddm/
+ls
+helix CurrentTasks.md
+rm package-lock.json
+ls
+mv CurrentTasks.md Todo.md
+mv Todo.md Documents/
+ls
+cd Documents/
+ls
+koi.png
+mv koi.* ../Media/
+ls
+helix pay.md
+ls
+cd ..
+ls
+helix /etc/sddm.conf.d/autologin.conf
+sudo helix /etc/sddm.conf.d/autologin.conf
+sudo helix /etc/sddm.conf.d/default.conf
+cd Projects/Software/Carp/
+ls
+git branch
+git switch ui
+git branch -D ui
+git branch ui
+ls
+helix src/scripts/main.js
+ls
+cd Projects/Software/Carp/
+helix src/scripts/main.js
+helix Projects/Software/Carp/src/css/style.css
+git commit -a
+git branch
+ls
+helix src/scripts/main.js
+git commit -a
+git push
+helix --tutor
+ls
+cd Projects/Software/Carp/src/scripts
+ls
+git branch
+git switch ui
+helix main.js
+git switch master
+cd Projects/Software/Carp/src/scripts/
+light -S 100
+helix main.js
+git branch
+git branch -D ui
+git branch ui
+git switch ui
+cd Projects/Software/Carp/
+helix main.js
+cd Projects/Software/Carp/
+cd Projects/Software/Carp/src/scripts
+git branch
+helix 
+helix main.js
+ls
+git merge ui
+AllTheLemons
+paru -Sy evince
+ls
+cd Downloads/
+ls
+evince `Cancellation Letter - 2.19.45 PM.pdf`
+paru -Sy okular
+okular `Cancellation Letter - 2.19.45 PM.pdf`
+paru -R okular
+paru -R evince
+ls
+paru -Sy Xreader
+paru -Sy evince
+paru -Sy zathura
+zathura `Downloads/Cancellation Letter - 2.19.45 PM.pdf`
+firefox `Downloads/Cancellation Letter - 2.19.45 PM.pdf`
+ls
+cd Projects/Software/Carp/src/scripts
+cd ..
+ls
+cd ..
+helix main.js
+cd Projects/Software/Carp/src/scripts
+kitty -e helix main.js & disown
+kitty -e helix main.js &
+nushell -h
+nushell -help
+nu -help
+nu --help
+kitty -e helix main.js -c
+ helix main.js -e
+helix main.js -e
+nu -e helix main.js 
+-e 
+helix main.js -t
+helix main.js -t 2
+nu -c kitty -e helix main.js
+kitty -h
+kitty -hold kitty -e helix ~/Projects/Software/Carp/src/scripts/main.js
+kitty -h
+kitty --hold kitty -e helix ~/Projects/Software/Carp/src/scripts/main.js
+kitty --hold kitty helix ~/Projects/Software/Carp/src/scripts/main.js
+kitty --hold helix ~/Projects/Software/Carp/src/scripts/main.js
+kitty --hold helix ~/Projects/Software/Carp/src/scripts/main.js &
+kitty --hold helix | ~/Projects/Software/Carp/src/scripts/main.js, ~/Projects/Software/Carp/src/css/style.css
+paru -Sy wezterm
+wezterm -h
+wezterm shell-completion
+wezterm --shell nu
+wezterm shell-completion --shell nu
+ls
+l
+ls
+cd Utils/
+ls
+git clone 'https://github.com/nushell/awesome-nu#plugins'
+git clone https://github.com/nushell/awesome-nu
+ls
+cd awesome-nu/
+ls
+ls -a
+cd ..
+ls
+cd Utils/awesome-nu/
+ls
+wezter 
+wezterm
+wezterm nu
+wezterm -h
+wezterm start nu
+cd ~/Projects/Software/Carp/src/scripts/
+ls
+paru -Sy alacritty
+ls
+cd ~/Projects/Software/Carp/src/scripts/
+cd ..
+ls
+git
+ls
+alacritty -h
+ls
+alacritty 
+ls
+fclist : family style
+font
+fc-list 
+helix | fc-list 
+ | fc-list 
+nu -h
+fc-list
+ls
+ls
+pavucontrol 
+paru -Sy pavucontrol
+pavucontrol 
+paru -R pavucontrol
+helox .config/helix/config.toml
+helix .config/helix/config.toml
+helox .config/hypr/hyprland.conf
+helix .config/helix/config.toml
+helox .config/hypr/hyprland.conf
+asusctl -k off
+light -S 1
+asusctl -k low
+ls
+cd Projects/Software/Carp/src/scripts
+ls
+cd Projects/Software/Carp/
+helix Projects/Software/Carp/src/scripts/
+ls
+cd Projects/Software/Carp/
+git branch
+git switch master
+helix src/scripts/main.js
+git branch
+ls
+cd src/
+ls
+ cd scripts/
+ls
+git branch
+helix main.js
+git delete ui
+git branch delete ui
+ls
+helix main.js
+git pull main.js
+cd
+ls
+cd Projects/Software/Carp/
+ls
+git pull remote
+gitt help
+git help
+git restore
+git restore src/
+ls
+cd src/
+ls
+cd scripts/
+ls
+helix main.js
+helix .config/helix/config.toml
+ls
+cd Projects/Software/Carp/
+ls
+cd Projects/Software/Carp/
+ls
+cd Projects/Software/Carp/src/css/
+ls
+helix src/scripts/main.js
+ls
+git commit -a
+git push
+ls
+python3 -m http.server
+helix .prettierrc.json
+helix src/scripts/main.js
+npx prettier --write src/scripts/main.js
+helix .config/helix/
+helix src/scripts/main.js
+npx prettier --write src/scripts/main.js
+cd ~/Utils/node_modules/prettier/
+ls
+cd esm/
+ls
+cd ..
+ls
+helix README.md
+cd ..
+cd Projects/Software/Carp/src/scripts
+cd ~/Projects/Software/Carp/src/scripts/
+ls
+helix main.js
+npx prettier --write src/scripts/main.js
+cd ~/Utils/node_modules/
+ls
+mkdir lib
+cd ~/Projects/Software/Carp/src/scripts/
+ls
+npx prettier --write src/scripts/main.js
+ls
+npx prettier --write main.js
+helix ~/.prettierrc.json
+npx prettier --write src/scripts/main.js
+npx prettier --write main.js
+npx prettier -help
+npx prettier --no-config  --write main.js
+helix main.js
+ cd Utils/node_modules/lib/
+ls
+cd ..
+ls
+mkdir Scratch
+ls
+cd Scratch/
+touch ThanksDad.txt
+ls
+paru -Sy alacritty-ligatures-git
+ls
+kitty
+paru -R alacritty
+paru -Sy alacritty-ligatures-git
+paru -Sy alacritty
+alacritty 
+kitty 
+ls
+helix .config/alacritty/alacritty.yml
+ls
+alacritty 
+ls
+cd Projects/Software/Carp/src/scripts
+ls
+git branch
+git branch delete ui
+git delete branch ui
+git branch -d ui
+git branch -d delete
+ls
+git branch link_pattern_trial
+ls
+git branch
+git switch link_pattern_trial
+ls
+cd Projects/Software/Carp/src/css/
+ls
+cd Projects/Software/Carp/
+python3 -m http.server
+python3 -m http.server h
+chromium
+helix Projects/Software/Carp/
+cd Projects/Software/Carp/
+git branch
+helix Projects/Software/Carp
+cd Downloads/
+ls
+helix .config/hypr
+helix .config/hypr/
+ls
+cd ~/.config/hypr/
+ls
+helix hyprpaper.conf
+hyprpaper 
+hyprpaper & disown
+helix main.js
+npx prettier --write main.js
+npx prettier --write
+npx prettier --write *
+helix hyprpaper.conf
+helix main.js
+npx prettier --write *
+helix main.js
+npx prettier --write *
+npm install prettier prettier-airbnb-config --save-dev
+helix .prettierrc.json
+cd Utils/
+;s
+ls
+helix package.json
+cd Projects/Software/Carp/src/scripts
+cd ~/Projects/Software/Carp/src/scripts
+ls
+npx prettier --write *
+helix .prettierrc.json
+cd ~/Projects/Software/Carp/src/scripts/
+ls
+cd ~/Projects/Software/Carp/src/css/
+cd ~/Projects/Software/Carp/
+helix style.css
+cd ~/Projects/Software/Carp/
+alacritty -g
+alacritty -h
+echo ${CWD}
+echo CWD
+echo $CWD
+echo $env
+echo $PWD
+echo $env.PWD
+cd ~/Projects/Software/Carp/
+git branch
+git branch master
+git switch master
+git merge link_pattern_trial
+ls
+helix src/scripts/main.js
+git merge
+git branch link_pattern_trial
+git switch link_pattern_trial
+git merge
+git -h
+git switch master
+git pull link_pattern_trial
+git add -A
+git commit -a
+git push
+ls
+git branch
+git branch -d link_pattern_trial
+git branch task_menu
+git branhc
+git branch
+git switch task_menu
+krita
+echo $env.PWD
+echo $env.PWD
+helix ~/.config/hypr/hyprland/
+cd ~/Projects/
+ls
+cd Software/
+ls
+mkdir CarpCanvas
+ls
+git init
+gh -h
+gh repo
+gh repo create
+ls
+rm CarpB
+rm -rf CarpB/
+rm -rf CarpCanvas/
+cd Sunfish/
+ls
+helix ~/.config/hypr/hyprland.conf
+ls
+cp index.html ../Sunfish/
+wezterm
+wezterm-gui 
+zellij setup --dump-config > ~/.config/zellij/config.kdl
+zellij setup --dump-config |  ~/.config/zellij/config.kdl
+~/.config/zellij/ | zellij setup -dump-config
+~/.config/zellij/<| zellij setup -dump-config
+~/.config/zellij/ <| zellij setup -dump-config
+nu -h
+nu -c
+helix ~/.config/zellij/config.kdl
+zellij
+helix ~/.config/zellij/config.kdl
+zellij
+helix ~/.config/zellij/config.kdl
+zellij
+helix ~/.config/zellij/config.kdl
+zellij
+helix ~/.config/zellij/config.kdl
+zellij
+helix ~/.config/zellij/config.kdl
+zellij
+zellij -l compact
+helix ~/.config/zellij/config.kdl
+zellij -l compact
+zellij setup -check
+zellij setup --check
+zellij 
+zellij -l compact
+helix ~/.config/zellij/config.kdl
+zellij
+helix ~/.config/zellij/config.kdl
+zellij -l compact
+helix ~/.config/zellij/config.kdl
+zellij -l compact
+wezterm 
+zellij
+helix .config/hypr/hyprland.conf
+helix .config/wezterm/wezterm.lua
+helix .config/hypr/hyprland.conf
+wezterm 
+helix .config/wezterm/wezterm.lua
+wezterm 
+$ export __EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/50_mesa.json
+helix .config/zellij/config.kdl
+fontforge 
+fontconfig
+fc-list 
+paru -Sy proggy
+paru -Sy proggyfonts
+helix .config/alacritty/alacritty.yml
+fc-list ':' 
+ripgrep proggy
+paru -Sy ripgrep
+ripgrep proggy
+ripgrep
+rg proggy
+cd /usr/
+sudo rg proggy
+cd ..
+ls
+cd ~/
+ls
+btop
+helix .config/zellij/config.kdl
+q
+zellij 
+tty
+tty-clock
+paru -Sy clock-cli-rs
+cargo install clock-cli
+helix .config/hypr/hyprland.conf
+helix .config/nushell/config.nu
+helix .config/nushell/env.nu
+nu setup
+nushell -h
+nu help
+nu --help
+helix .config/nushell/config.nu
+whcih zellij
+:q
+helix .cache/starship/init.nu
+helix .config/hypr/hyprland.conf
+alacritty
+helix .cache/starship/init.nu
+which zellij
+helix .cache/starship/init.nu
+zellij --h
+zellij --help
+zellij options
+helix .cache/starship/init.nu
+config nu
+nu config nu
+config 
+config nu
+helix .config/nushell/env.nu
+config nu
+helix .config/nushell/env.nu
+config nu
+helix .config/nushell/env.nu
+config nu
+helix .config/nushell/env.nu
+$env.EDITOR helix
+$env.EDITOR
+$config.buffer_editor
+config.buffer_editor
+config nu
+paru -Sy nano
+config nu
+helix .config/nushell/config.nu
+config nu
+helix .config/nushell/config.nu
+config nu
+helix .config/nushell/config.nu
+config nu
+helix .config/nushell/config.nu
+btop
+helix .config/starship.toml
+helix .config/nushell/env.nu
+nu config
+nu config nu
+config nu
+helix .config/nushell/env.nu
+config nu
+helix .config/nushell/env.nu
+config nu
+helix .config/nushell/env.nu
+config nu
+alacritty -h
+helix `Downloads/alacritty(1).yml`
+helix .config/starship.toml
+ls
+alacritty -e zellij
+alacritty -e zellij action resize +
+alacritty -e zellij action resize left
+helix .config/hypr/hyprland.conf
+alacritty -e zellij action resize left
+z
+helix .config/nushell/env.nu
+helix .config/nushell/config.nu
+Z
+:wq
+:q
+helix .config/zellij/config.kdl
+cava
+paru -Sy cava
+paru -h
+paru -Sy cava
+paru -S cava
+zellij
+wezterm
+kitty
+helix .config/zellij/config.kdl
+helix .config/hypr/hyprland.conf
+alacritty -h
+:q
+alacritty -o "window.startup_mode=Fullscreen"
+helix .config/hypr/hyprland.conf
+alacritty -e zellij
+z
+ZZ
+helix .config/nushell/config.nu
+helix .config/hypr/hyprland.conf
+helix .config/wezterm/wezterm.lua
+helix .config/zellij/config.kdl
+helix
+z
+config nu
+helix .config/nushell/config.nu
+z
+helix .config/nushell/config.nu
+Z
+wezterm
+helix .config/wezterm/wezterm.lua
+wezterm
+helix .config/wezterm/wezterm.lua
+wezterm
+helix .config/wezterm/wezterm.lua
+wezterm
+paru -Sy fish-shell
+rustup
+rustup update
+paru -Sy fish-shell
+ls
+config --set [startup ["zellij"]]
+config set [startup ["zellij"]]
+config --set [startup ["zellij"]]
+config
+config -h
+> config --set [startup ["zellij"]]
+> config --set [startup [zellij]]
+> config --set [startup ["wezterm start zellij"]]
+> config --set [startup ["zellij"]]
+> config --set [startup []]
+> config --set [startup ]
+> config --set [startup "zellij"]
+save config --set [startup "zellij"]
+config
+config nu --set 
+config nu -h
+config nu
+helix .config/nushell/config.nu
+paru -Sy nushell
+> config --set [startup "zellij"]
+config --set [startup "zellij"]
+helix .config/nushell/config.nu
+clear
+helix .config/nushell/config.nu
+clear
+ls
+helix .config/nushell/config.nu
+ls
+helix .config/nushell/config.nu
+nu config
+config -h
+config reset
+helix .config/nushell/config.nu
+ls
+helix .config/nushell/config.nu
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu
+helix .config/nushell/config.nu
+le
+ls
+helix .config/nushell/config.nu
+helix .config/hypr/hyprland.conf
+helix .config/nushell/config.nu
+nu restart
+nu -h
+ls
+config -h
+helix .config/starship.toml
+ls
+helix .config/starship.toml
+helix .config/wezterm/wezterm.lua
+ls
+config.use_fancy_tab_bar = falseconfig.show_tabs_in_tab_bar = falseconfig.show_new_tab_button_in_tab_bar = false
+helix .config/wezterm/wezterm.lua
+wezterm
+which csh
+csh
+paru -Sy csh
+csh -s nu
+chsh -s nu
+chsh -s /usr/bin/nu
+~/.config/zellij zellij setup --dump-config
+zellij setup --dump-config
+helix .config/zellij/config.kdl
+cd ~/.config/zellij/
+ls
+rm config.kdl
+ls
+cd ..
+zellij setup --dump-config > ~/.config/zellij/config.kdl
+ls
+helix .config/zellij/config.kdl
+cd Projects/Software/Carp/src/
+ls
+cd ,,
+cd ..
+ls
+cd src/
+ls
+open *
+open scripts/
+open scripts/main.js
+ls *
+ls -r *
+ls --help
+ls subr *
+ls subdir *
+ls subdir
+start *
+start *.css
+cd ..
+ls
+cd css/
+mv * ..
+cd ..
+ls
+cd scripts/
+ls
+mv * ..
+cd ..
+ls
+rm css/, scripts/
+ls
+rm css/
+ls
+helix *
+ls
+cd ..
+ls
+python3 -m http.server h
+cd ..
+ls
+helix index.html
+helix main.js
+ls
+cd Projects/Software/Carp/src/
+ls
+python3 -m http.server h
+cd ..
+ls
+python3 -m http.server h
+python3 -m http.server 
+cd Projects/Software/Carp/src/
+cd ..
+cd Projects/Software/Carp/src/
+ls
+python3 -m http.server 
+cd ..
+touch gpt_api_code
+paru -Sy chatgtp-desktop-bin
+paru -Sy chatgpt-desktop-bin
+chat-gpt 
+helix gpt_api_code
+cd Projects/Software/Carp/src/
+cd Projects/Software/Carp/
+ls
+cd Projects/Software/Carp/
+cd src/
+ls
+helix index.html
+cd ..
+ls
+cd ..
+helix index.html
+powertop
+bat
+acpi
+asusctl 
+asusctl -g
+asusctl -m
+asusctl -h
+supergfxctl -g
+supergfxctl -m integrated
+paru -Syu
+supergfxctl -g
+supergfxctl -m
+supergfxctl -m integrated
+supergfxctl -g
+ls
+starship init nu | save -f ~/.cache/starship/init.nu
+ls
+helix .config/starship.toml
+ls
+config nu
+nu config
+config nu
+$nu.config-path
+helix .config/nushell/config.nu
+ls
+helix .config/starship.toml
+helix .config/starship.toml
+:q
+config nu
+nu config
+helix .config/nushell/config.nu
+helix .config/starship.toml
+ls
+helix .config/starship.toml
+cd Projects/Software/Carp/
+ls
+light -S 1
+supergfxctl -g
+asusctl -g
+asusctl -h
+asusctl bios
+asusctl bios -d
+asusctl -k low
+asusctl -k high
+asusctl -k low
+light -S 100
+cd Projects/Software/Carp/
+hx --health | grep clipboard
+helix --health | grep clipboard
+paru -Sy wl-clipboard
+chromium 
+python3 -m http.server 
+helix Projects/Software/Carp/src/style.css
+cd Projects/Software/Carp/
+helix Projects/Software/Carp/src/main.js
+helix Projects/Software/Carp/src/
+helix src/main.rs
+light -S 1
+cd Projects/Software/Carp/
+light -S 100
+light -S 1
+cd Projects/Software/Carp/
+find . -name "*.txt" | each { echo $it | open -a helix sleep 1}
+find . -name "*"
+find .
+find --help
+find -r .
+find -r . | each { echo it}
+find -r . | each 
+find -r . | each { echo }
+find -r . | each { echo $it }
+find -r -name | each { echo $it }
+find -r -name | each { echo name }
+find -r -name | each {|n| echo n }
+ls
+cal
+open
+open src
+path
+ path expand 
+ path expand ls
+ls -heo
+ls -h
+ls -f
+cd src/
+ls | helix
+ls | helix -a f}
+ls | each {|f| helix -a f}
+ls | each {|f| helix f}
+ls | each {|f| echo f}
+ls | each {|f| echo $f}
+ls | each {|f| helix $f}
+ls | each {|f| helix -a $f}
+ls | each {|f| helix}
+ls | each {|f| helix $f.name}
+ls | each {|f| zellij | helix $f.name}
+ls | each {|f| helix -a $f.name}
+zellij -h
+ls | each {|f| zellij run | helix $f.name}
+ls | zellij run | each {|f| helix $f.name}
+zellij run | ls | each {|f| helix $f.name}
+zellij run helix | ls | each {|f| $f.name}
+zellij run | helix | ls | each {|f| $f.name}
+zellij run | helix ls | each {|f| $f.name}
+zellij run | helix | ls | each {|f| $f.name}
+cd Projects/Software/Carp/src/
+zellij run | helix | ls | each {|f| $f.name}
+ls | each {|f| zellij run helix $f.name}
+helix -h
+ls | each {|f| zellij run helix $f.name}
+zellij --help
+zellij r helix
+zellij r -- helix
+ls | each {|f| zellij r -- helix $f.name}
+cd Projects/Software/Carp/src/
+ls | each {|f| zellij r -- helix $f.name}
+cd ..
+python3 -m http.server 
+supergfxctl -g
+powertop
+light -S 1
+light -S 25
+light -S 15
+cd Projects/Software/Carp/src/
+cd ..
+supergfxctl -m hybrid
+light -S 1
+helix
+ls
+mkdir test
+mv test.html test/
+cd test
+python3 -m http.server 
+python3 -m http.server -h
+python3 -m http.server
+ls
+helix test.html
+python3 -m http.server
+cd test/
+p
+python3 -m http.server
+btop
+python3 -m http.server
+python3 -m http.server 
+btop
+python3 -m http.server 
+<!DOCTYPE html><html lang="en"><head>  <meta charset="UTF-8">  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <title>Minimalist Notepad Icon</title>  <script>    function createRectangle(svg, x, y, width, height, fill, stroke, strokeWidth) {      const rect = document.createElementNS(svg.namespaceURI, 'rect');      rect.setAttribute('x', x);      rect.setAttribute('y', y);      rect.setAttribute('width', width);      rect.setAttribute('height', height);      rect.setAttribute('fill', fill);      rect.setAttribute('stroke', stroke);      rect.setAttribute('stroke-width', strokeWidth);      svg.appendChild(rect);      return rect;    }    function createLine(svg, x1, y1, x2, y2, stroke, strokeWidth) {      const line = document.createElementNS(svg.namespaceURI, 'line');      line.setAttribute('x1', x1);      line.setAttribute('y1', y1);      line.setAttribute('x2', x2);      line.setAttribute('y2', y2);      line.setAttribute('stroke', stroke);      line.setAttribute('stroke-width', strokeWidth);      svg.appendChild(line);      return line;    }    function createNotepadIcon() {      const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');      svg.setAttribute('width', '48');      svg.setAttribute('height', '48');      svg.setAttribute('viewBox', '0 0 24 24');            createRectangle(svg, 3, 3, 18, 18, 'white', 'black', 1);      createRectangle(svg, 6, 4, 12, 1, 'black', 'none', 0);      createLine(svg, 6, 7, 18, 7, 'black', 1);      createLine(svg, 6, 10, 18, 10, 'black', 1);      createLine(svg, 6, 13, 18, 13, 'black', 1);      createLine(svg, 6, 16, 18, 16, 'black', 1);      return svg;    }  </script></head><body onload="document.body.appendChild(createNotepadIcon())"></body></html>uu
+ls
+btop\
+powertop
+acpi
+powertop
+acpi
+btop
+acpi
+supergfxctl 
+supergfxctl -s
+supergfxctl -S
+supergfxctl -V
+supergfxctl -m
+asusctl
+asusctl -s
+helix .config/nushell/config.nu
+helix .config/wezterm/wezterm.lua
+wezterm
+config nu
+nu config
+ls
+helix .config/nushell/env.nu
+helix .config/zellij/config.kdl
+helix .config/wezterm/wezterm.lua
+helix .config/fish/conf.d/
+helix .config/nushell/config.nu
+helix .config/starship.toml
+helix .config/hypr/hyprland.conf
+ls
+cd Projects/Software/Carp/src/
+helix .config/starship.toml
+helix .config/wezterm/wezterm.lua
+helix .config/starship.toml
+asdgasfffecvrgfwecvfegrefwcsd
+cd Projects/Software/Carp/src/
+ls
+helix main.js
+helix style.css
+cd ..
+helix index.html
+helix src/style.css
+helix src/main.js
+helix index.html
+python3 -m http.server 
+helix index.html
+helix src/style.css
+helix index.html
+helix src/style.css
+helix src/main.js
+helix src/style.css
+helix src/main.js
+ls
+cd src/
+ls
+rm main.rs
+mv main.js oldmain.js
+ls
+touch main.js
+helix oldmain.js
+mv oldmain.js main.js
+mv oldmain.js main.js -f
+ls
+python3 -m http.server 
+btop
+btop --utf-force
+zellij
+ls
+wezterm
+ls
+rm carp
+rm carp.js
+mv gpt_api_code Documents/API_Keys
+cd Documents/
+ls
+cd ..
+ls
+cd Documents/
+ls
+helix API_Keys
+mv API_Keys gpt
+ls
+mkdir keyring
+mv gpt keyring/
+ls
+cd keyring/
+ls
+cd ..
+ls
+cd ..
+ls
+cd Scratch/
+ls
+cd ..
+cd Projects/Scripts/
+ls
+cd RedRock/
+ls
+helix OpeningMonologue.md
+cd ..
+cd..
+ls
+cd ..
+ls
+cd ..
+ls
+cd Utils/
+ls
+git clone https://github.com/catppuccin/tty
+cd tty/
+ls
+./build.sh
+./install.sh mocha
+btop
+paru -Sy dunst
+dunst
+dunst --h
+paru -Sy obsidian
+obsidian
+ls
+cd Projects/Software/Carp/
+ls
+touch devlog.md
+obsidian
+ls
+cd Projects/Software/Koi
+cd Projects/Software/
+mkdir Koi
+ls
+cd Koi/
+ls
+mv ../Carp/index.html .
+ls
+helix index.html
+mkdir src
+ls
+cd src/
+ls
+helix --tutor
+helix main.js
+cd ..
+helix devlog.md
+cd ~/Projects/Software/Koi/src/
+Projects/Software/Koi/
+cd Projects/Software/Koi/
+ls
+cd src/
+ls
+mv Projects/Software/Carp/src/style.css Projects/Software/Koi/src/
+ls
+cd Projects/Software/Koi/
+ls
+python3 -m http.server 
+cd Projects/Software/Koi/src/
+ls
+helix Projects/Software/Koi/src/main.js
+ls
+cd Projects/Software/Koi/
+ls
+gh repo create
+git init
+gh repo create
+git add -A
+ls
+git commit -a
+git push 
+git push --set-upstream origin master
+git branch node_spawning
+ls
+git checkout
+git branch
+git branch node_spawning
+git branch switch node_spawning
+ls
+git branch
+git switch node_spawning
+git delete switch
+git branch -h
+git branch -D switch
+git branch -l
+ls
+Z
+z
+ls
+helix src/style.css
+helix index.html
+helix src/style.css
+helix index.html
+helix src/style.css
+helix src/main.js
+helix src/style.css
+helix index.html
+shutdown now
+ls
+helix Documents/keyring/gpt
+chromium -h
+paru -Sy chromecastize-git
+chromecastize.sh 
+chromecastize.sh -h
+chromecastize.sh https://www.youtube.com/watch?v=94SLImnYYRQ
+chromiumum https://www.youtube.com/watch?v=94SLImnYYRQ
+chromiumum https://www.youtube.com/watch?v=94SLImnYYRQ & disown
+chromium https://www.youtube.com/watch?v=94SLImnYYRQ & disown
+start chromium
+wezterm start chromium
+wezterm start chromium & disown
+helix Projects/Software/Koi/src/main.js
+cd Projects/Software/Koi/
+git commit -a
+git push
+git branch
+git merge
+git checkout master
+git merge node_spawning
+git commit -a
+git push
+git checkout node_spawning
+git checkout master
+git push
+git pull
+ls
+cd src/
+ls
+helix main.js
+ls
+git commit -a
+git pull
+git push -g
+git push -f
+cd Projects/Software/Carp
+cd Projects/Software/Carp/
+ls
+cd ..
+ls
+cd ..
+ls
+cd Carp/
+ls
+mv LICENSE ../Koi/
+cd ../Koi/
+ls
+helix LICENSE
+ls
+git commit -A
+git commit -a
+git add LICENSE
+git commit -a
+git push
+ls
+hyprland restart
+chromium
+wezterm -h
+wezterm -e chromium & disown
+chromium & disown
+detach chromium
+disown
+chromium -s
+ls
+cd Downloads/
+ls
+dolphin
+helix
+ls
+node leetCodeScratch.js
+clear
+node leetCodeScratch.js
+cclear
+clear
+cclear
+clearclear
+clear
+node leetCodeScratch.js
+clear
+node leetCodeScratch.js
+clear
+node leetCodeScratch.js
+daate
+date
+date now
+ks
+ls
+go
+light -S 100
+ls
+light -S 1
+networkctl 
+networkctl -h
+networkctl -a
+networkctl list
+btop4
+why?
+what?
+chrom
+ranger
+ls
+cmatrix
+cbonsa
+cbonsai
+ls
+cd Media
+ls
+koi.png
+zathura `Downloads/Cancellation Letter - 2.19.45 PM.pdf`
+shutdown
+shutdown -c
+shutdown now
+light -S 1
+paru -Syu
+sudo pacman -Syu
+paru -Su pointless
+ls
+cd Projects/
+ls
+cd Scripts/
+;s
+ls
+cd RedRock/
+ls
+helix OpeningMonologue.md
+cd  ..
+ls
+chromecastize.sh https://www.netflix.com/watch/81037140?trackId=14170286&tctx=1%2C2%2C0c96b5c6-73f9-432a-bee1-cb3729dac322-52009146%2CNES_888AB914AB283AEA88868FF747FB17-B9F225DDE3A711-80A1CE4B65_p_1687876378250%2CNES_888AB914AB283AEA88868FF747FB17_p_1687876378250%2C%2C%2C%2C%2CVideo%3A80117552%2CminiDpPlayButton
+chromium -h
+light -S 1
+light -S 0.1
+light -S 100
+ls
+cd Documents/
+l
+ls
+light -S 0.1
+light -S 100
+paru --clean
+sudo pacman -Qtdq
+pacman -Qtdq | pacman -Rns -<\n>
+sudo pacman -Qtdq | pacman -Rns -<\n>
+sudo pacman -Qtdq | sudo pacman -Rns -
+pacman -Qqd | pacman -Rsu --print -
+pacman -Qqd | pacman -Rsu -
+pacman -Qqd | sudo pacman -Rsu -
+neofetch
+neofetch 
+light -S 0.5
+ls
+battery
+chromium
+paru -S firefox
+chromium
+paru -Sy chromium
+chromium
+paru -Sy chromium
+chromium
+paru -S chromium
+chromium
+sudo pacman chromium
+sudo pacman -Sy chromium
+chromium
+firefox
+chromium
+sudo pacman -R chromium
+paru -Sy chromium
+chromium
+chromium
+cd /usr/lib/chromium/
+ls
+chromium 
+sudo pacman -Syu
+chromium 
+helix .config/hypr/hyprland.conf
+ls
+cd Projects/
+ls
+cd Projects/
+ls
+mkdir Nova
+ls
+cd Nova
+ls
+mkdie Notes
+mkdir Notes
+ls
+cd Notes
+touch Label_Text_Generator
+ls
+light -S 0.5
+light -S 100
+ls
+cd Projects/Software/Carp/src/
+;s
+ls
+helix main.js
+cd Projects/Software/Carp/src/
+cd..
+cd ..
+chromium
+light -S 1
+neofetch
+clear
+neofetch
+light -S 1
+btop
+clear
+bto
+ls
+cd Projects/LearnRust/
+ls
+cd tutorials/
+ls
+cd Documents/
+ls
+cd ..
+ls
+cd Downloads/
+ls
+zathura Divorce.pdf
+Downloads/Divorce.pdf
+firefox Downloads/Divorce.pdf
+blueman-manager
+paru -Sy opentabletdriver
+sudo pacman -Sy opentabletdriver
+paru -Sy opentabletdriver
+paru -Sy huiontablet
+huiontablet
+ls
+cd Downloads/
+ls
+Divorce_Current_Signature.pdf
+ls
+rm Divorce_Current_Signature-1.pdf
+rm Divorce_Current_Signature.pdf
+rm Divorce_Old_Signature-1.pdf
+rm Divorce_Old_Signature.pdf
+rm Divorce.pdf
+ls
+zathura Divorce.pdf
+paru -Sy zathura
+zathura Divorce.pdf
+paru -Sy zathura-pdf-poppler
+zathura Divorce.pdf
+ls
+cd Downloads/
+ls
+zather Divorce_Old_Sig.pdf
+zathura Divorce_Old_Sig.pdf
+paru -Sy foxitreader
+foxitreader Divorce_Old_Sig.pdf
+sudo foxitreader Divorce_Test_Sig.pdf
+foxitreader Divorce_Old_Sig.pdf
+ls
+cd Documents/
+ls
+cd ..
+cd Projects/Fromage/
+ls
+cd CAFFEINE_files/
+ls
+cd ..
+ls
+CAFFEINE.html
+firefox CAFFEINE.html
+node 
+ls
+helix CAFFEINE.html
+touch scraping.js
+helix scraping.js
+node scraping.js
+python3 -m http.server 
+ls
+python3 -m http.server CAFFEINE.html
+helix CAFFEINE.html
+ls
+npm i puppeteer
+ls
+ls -all
+node
+cd ~/
+ls
+cd node_modules/
+ls
+cd ~/Projects/Fromage/
+ls
+npm i express
+helix scraping.js
+ls
+node scraping.js
+helix scraping.js
+node scraping.js
+helix scraping.js
+node scraping.js
+helix scraping.js
+node scraping.js
+ls
+helix scraping.js
+node scraping.js
+helix scraping.js
+node scraping.js
+helix scraping.js
+node scraping.js
+helix scraping.js
+node scraping.js
+helix scraping.js
+node scraping.js
+helix scraping.js
+node scraping.js
+ls
+mkdir pages
+cd pages/
+touch test
+cd ..
+ls
+node scraping.js
+helix scraping.js
+node scraping.js
+ls
+helix pages/
+helix page.html
+helix scraping.js
+node scraping.js
+cd ~/Projects/Fromage/
+ls
+node scraping.js
+ls
+helix page.html
+node scraping.js
+ls
+helix scraping.js
+ls
+rm pages/ CAFFEINE.html CAFFEINE_files/
+rm pages/ CAFFEINE.html
+rm pages/ CAFFEINE.html -r
+ls
+rm CAFFEINE_files/ -r
+ls
+touch firstPass.js
+ls
+helix page.html
+ls
+helix firstPass.js
+helix page.html
+node scraping.js
+node scraping.js\
+node scraping.js
+clear
+node scraping.js
+neofetch
+sudo pacman -Syu<\n>sudo pacman -S --needed \<\n>    webkit2gtk \<\n>    base-devel \<\n>    curl \<\n>    wget \<\n>    file \<\n>    openssl \<\n>    appmenu-gtk-module \<\n>    gtk3 \<\n>    libappindicator-gtk3 \<\n>    librsvg \<\n>    libvips
+ls
+clear
+rustup update
+paru -Sy tailwindcss
+paru -Sy tailwindcss-intellisense
+npm i tailwindcss-language-server
+helix .config/helix/languages.toml
+helix -health
+hx --health
+hx ---health
+hx
+helix --health
+npm i tailwindcss-language-server
+helix --health
+tailwindcss 
+ls
+cd node_modules/
+ls
+cd tailwindcss-language-server/
+ls
+cd dist/
+ls
+node index.js
+helix index.js
+npm -help
+helox
+helix
+npm i @tailwindcss/language-server
+helix --health
+helix -help
+helix --h
+helix -h
+hx
+helix
+<\n><\n>tailwindcss-language-server --stdio
+ls
+node node_modules/@tailwindcss/language-server/bin/tailwindcss-language-server
+helix .config/helix/languages.toml
+helix --health
+helix test.css
+helix test.html
+helix .config/helix/languages.toml
+helix test.html
+helix --health
+node node_modules/@tailwindcss/language-server/bin/tailwindcss-language-server
+node_modules/@tailwindcss/language-server/bin/tailwindcss-language-server
+helix .config/helix/languages.toml
+helix test.html
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix .config/helix/languages.toml
+helix --health
+tailwindcss
+tailwindcss -c
+tailwindcss init
+ls
+helix tailwind.config.js
+helix --health
+tailwindcss-language-server
+tailwind
+tailwind -h
+tailwind init --full
+paru https://github.com/laureanray/tailwindcss-language-server
+paru -S https://github.com/laureanray/tailwindcss-language-server
+paru -S github.com/laureanray/tailwindcss-language-server
+paru -S tailwindcss-language-server
+tailwindcss-language-server 
+helix .config/helix/languages.toml
+helix --health
+helix test.html
+helix .config/helix/languages.toml
+helix test.html
+helix .config/helix/languages.toml
+helix test.html
+helix --health
+helix .config/helix/languages.toml
+helix --health
+helix test.html
+helix .config/helix/languages.toml
+helix test.html
+helix .config/helix/languages.toml
+helix test.html
+helix .config/helix/languages.toml
+helix test.html
+paru -Sy helix
+helix test.html
+paru -Sy vscode-html-language-server
+paru -Sy tailwindcss-html
+helix .config/helix/languages.toml
+paru -Sy tailwindcss-html
+helix  --health
+npm install --save vscode-html-languageservice
+helix  --health
+clear
+helix  --health
+npm install --save vscode-html-languageservice
+vscode-css-languageserver 
+vscode-css-language-server 
+helix  --health
+paru -S vscode-langservers-extracted
+paru -R vscode-css-languageserver
+paru -S vscode-langservers-extracted
+clear
+helix  --health
+helix --health
+helix test.html
+cd Projects/Software/Carp/src/
+ls
+helix main.js
+cd Projects/Softwar
+cd ..
+ls
+cd ..
+ls
+cd Koi/
+ls
+helix index.html
+helix .config/helix/languages.toml
+helix --health
+paru -Sy helix-git
+helix .config/helix/languages.toml
+helix
+hx
+hx .config/helix/languages.toml
+hx --health
+hx .config/helix/languages.toml
+helix
+hx test.html
+vscode-html-language-server 
+npm i -g helix-twcss
+hx .config/helix/languages.toml
+hx test.html
+ls
+hx --health
+helix Projects/Software/Koi/src/main.js
+hx Projects/Software/Koi/src/main.js
+hx-tw
+npm i -g hx-tw
+helix-twcss
+Tailwind CSS: Show Output
+tailwindcss -h
+tailwindcss init
+paru -Sy tailwindcss-intellisense
+hx .config/helix/languages.toml
+npm install -g @tailwindcss/language-server
+hx --health
+hx test.html
+hx --health
+hx .config/helix/languages.toml
+hx-tw
+hx .config/helix/languages.toml
+hx --health
+hx .config/helix/languages.toml
+hx --health
+hx -h
+hx -g
+hx -g build
+hx --health
+hx .config/helix/languages.toml
+helix test.html
+hx test.html
+hx --health
+hx .config/helix/languages.toml
+hx test.html
+hx --health
+hx .config/helix/
+hx .config/helix/languages.toml
+hx test.html
+hx .config/helix/languages.toml
+hx -v
+hx -v test.html
+hx ~/.cache/helix/helix.log
+hx .config/helix/languages.toml
+tailwindcss-language-server 
+vscode-css-language-server 
+hx -v test.html
+hx .cache/helix/helix.log
+hx .config/helix/languages.toml
+hx -v test.html
+ls
+hx index.html
+hx --health
+hx .config/helix/languages.toml
+hx test.html
+hx-tw
+npm i -g helix-twcss
+hx-tw
+ls
+cd node_modules/
+ls
+cd ..
+ls
+tailwindcss-language-server --stdio
+helix ADHD_Symptoms
+hx .config/helix/config.toml
+theme = "rose_pine"
+hx .config/helix/config.toml
+helix .config/hypr/hyprland.conf
+hx .config/helix/config.toml
+cd .config/hypr/hyprland
+ls
+git clone https://github.com/rose-pine/hyprland
+ls
+mv hyprland/ themes/
+ls
+cd themes/
+ls
+touch catppuccin/
+mkdir catppuccin
+mv *.conf catppuccin/
+ls
+cd hyprland/
+ls
+mv *.conf ../
+cd ..
+ls
+rm -rf hyprland/
+mkdir rose_pine
+mv *.conf rose_pine/
+ls
+cd rose_pine/
+hx rose-pine.conf
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+hx .config/hypr/hyprland.conf
+helix .config/wezterm/wezterm.lua
+hx .config/wezterm/wezterm.lua
+hx .config/wezterm/
+cd .config/wezterm/
+ls
+git clone https://github.com/neapsix/wezterm
+ls
+mv wezterm/lua/ .
+ls
+cd wezterm/
+ls
+cd ..
+rm -rf wezterm/
+ls
+hx wezterm.lua
+hx lua/
+mv lua/ rose_pine/
+ls
+paru -Sy rose-pine-gtk-theme
+lxappearance 
+git clone https://github.com/lwndhrst/sddm-rose-pine
+ls
+sudo mv sddm-rose-pine /usr/share/sddm/themes
+ls
+hx /etc/sddm.conf.d/default.conf
+sudo hx /etc/sddm.conf.d/default.conf
+git clone https://github.com/chunghha/go-rosepine-genart
+cd go-rosepine-genart/
+go run main.go
+ls
+cd ..
+ls
+go
+paru -Sy go
+go 
+cd ..
+ls
+cd slworp/
+ls
+cd go-rosepine-genart/
+go main.go
+go run main.go
+sudo go run main.go
+ls
+rose_pine_circle.png
+feh rose_pine_contourline.png
+ls
+rm go-rosepine-genart/
+rm -rg go-rosepine-genart/
+rm -rf go-rosepine-genart/
+ls
+rm ADHD_Symptoms.md
+ls
+rm leetCodeScratch.js
+rm tailwind.config.js
+rm test/
+rm -rf test.html
+rm -rf test
+ls
+hx package.json
+ls
+rm node_modules/
+rm -rf node_modules/
+rm package-lock.json
+rm package.json
+ls
+hx Projects/Software/Koi/src/style.css
+hx --health
+tailwindcss-language-server --stdio
+which tailwindcss-language-server
+paru -Sy      <\n><\n>tailwindcss-language-server
+paru -Sy tailwindcss-language-server
+paru -Sy tailwindcss-intellisense
+hx test.html
+hx test.css
+tailwindcss-language-server 
+tailwindcss-language-server --stdio
+hx test.html -vvv
+hx --health
+tailwindcss-language-server --stdio
+paru -Sy vscode-tailwindcss-language-server-bin
+touch tailwind.config.js
+hx tailwind.config.js
+clear
+hx --health
+hx test.html
+touch input.css
+hx input.css
+tailwindcss -i input.css -o ./output.css --watch
+tailwindcss init
+ps
+ls
+tailwindcss -i input.css -o ./output.css --watch
+hx .config/helix/config.toml
+which helix
+which hx
+git clone https://github.com/helix-editor/helix<\n>cd helix<\n>
+ls
+tailwindcss -i input.css -o ./output.css --watch
+cargo install --path helix-term --locked<\n>
+cd ..
+ls
+hx test.html
+hx .config/helix/config.toml
+hx .config/helix/languages.toml
+ls
+hx tailwind.config.js
+paru -R tailwindcss-language-server
+npm install -g @tailwindcss/language-server
+hx test.html
+tailwindcss-language-server --stdio
+npm install -g @tailwindcss/language-server
+npm -help
+ls
+npm
+npm help npm
+npm uninstall helix-twcss
+ls
+hx package-lock.json
+npm g helix-twcss
+npm i -g helix-twcss
+ls
+tailwind 
+ls
+cd helix/
+ls
+cd runtime/
+ls
+cd ..
+which hx
+cd ..
+ls
+npm -help
+helix .npmrc
+hx .npmrc
+cd ..
+cd slworp/
+ls
+cd Utils/
+ls
+cd ..
+hx .npmrc
+npm i -g helix-twcss
+sudo npm i -g helix-twcss
+ls
+hx test.html
+hx .config/helix/languages.toml
+ls
+paru -Sy tailwindcss-language-server
+hx --health
+hx test.html
+tailwindcss-language-server --stdio
+tailwindcss-language-server -help
+tailwindcss-language-server test.html
+/usr/bin/tailwindcss-language-server
+hx --health
+npm -i g @tailwindcss/language-server
+npm install -hg @tailwindcss/language-server
+npm install -g @tailwindcss/language-server
+sudo npm install -g @tailwindcss/language-server
+sudo npm install -g @tailwindcss/language-server --force
+hx -v test.html
+ls
+cd Utils/node_modules/lib/node_modules/@tailwindcss/language-server/bin/
+ls
+helix tailwindcss-language-server
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd helix-twcss/
+ls
+cd bin/
+ls
+cd ..
+hx .config/helix/languages.toml
+hx ~/.config/helix/languages.toml
+ls
+cd ..
+cd ~/
+hx test.html
+which lerna
+paru -Sy lerna
+git clone https://github.com/tailwindlabs/tailwindcss-intellisense/issues/802
+git clone https://github.com/atgote/tailwindcss-intellisense
+cd tailwindcss-intellisense/
+ls
+lerna run build
+sudo lerna run build
+ls
+hx lerna.json
+lerna run build packages/tailwindcss-language-server/
+lerna run build
+lerna -help
+ls
+cd packages/
+ls
+lerna run build
+lerna run build *
+cd ..
+lerna run build
+npx
+npx lerna
+npx lerna run build
+nx view-logs
+paru -Sy nx
+nx view-logs
+npm install --global nx@latest
+sudo npm install --global nx@latest
+lerna run build
+sudo lerna run build
+nx view-logs
+npx nx@latest init
+lerna run build
+lerna -help
+lerna run build bootstrap
+lerna bootstrap
+lerna run build
+npx lerna init
+lerna run build
+npx nx connect-to-nx-cloud
+lerna run build
+nx generate @nrwl/workspace:ci-workflow
+tsserver 
+nx generate @nrwl/workspace:ci-workflow
+touch tsconfig.base.json
+nx generate @nrwl/workspace:ci-workflow
+tsc --init
+nx generate @nrwl/workspace:ci-workflow
+rm tsconfig.base.json
+nx generate @nrwl/workspace:ci-workflow
+npm -init
+nx generate @nrwl/workspace:ci-workflow
+npm init
+nx generate @nrwl/workspace:ci-workflow
+lerna run buil
+lerna run build
+npm i nx-cloud
+npm audit fix
+lerna run build
+lerna init
+lerna run build
+npx lerna init --packages="packages/*"
+npx lerna init 
+ls
+cd packages/
+;s
+ls
+cd node_modules/
+ls
+cd ..
+ls
+cd ..
+ls
+rm tailwindcss-intellisense/
+rm -rf rm tailwindcss-intellisense/
+rm -rf tailwindcss-intellisense/
+ls
+hx test.html
+ls
+rm *.css
+ls
+rm package-lock.json
+rm package.json
+rm tailwind.config.js
+ls
+rm test.html
+ls
+rm helix/
+ls
+which hx
+rm -rf helix/
+hx
+ls
+cd Pictures/
+ls
+z ../Media/
+z ../Media
+paru -Sy zoxide
+zoxide ..
+zoxide 
+z `3938866.jpg`
+cd ..
+ls
+cd Media/
+ls
+cd ..
+cd Pictures/
+ls
+mv `3938866.jpg` ketnipz.jpg
+ls
+mkdir wallpapers
+mv ketnipz.jpg wallpapers/
+ls
+hx .config/hypr/hyprpaper.conf
+hyprpaper 
+cd wallpapers/
+ls
+cp ketnipz.jpg current.jpg
+ls
+mkdir current
+mv current.jpg current/
+hx .config/hypr/hyprpaper.conf
+mv current.jpg current/
+cd Downloads/
+ls
+pxfuel.jpg
+feh pxfuel.jpg
+ls
+cd ..
+ls
+cd Media/
+ls
+cd ,,
+cd ..
+ls
+cd Downloads/
+ls
+cmatrix
+cbonsai
+ls
+mv Downloads/neon_dark_sunset.jpg Pictures/wallpapers/current/current.jpg
+mv Downloads/neon_dark_sunset.jpg Pictures/wallpapers/current/current.jpg -f
+sudo hx /etc/sddm.conf.d/default.conf
+ls
+cd /usr/share/sddm/themes/sddm-rose-pine/
+ls
+hx background.jpg
+feh background.jpg
+cp ~/Pictures/wallpapers/current/current.jpg background.jpg
+ls
+git clone https://github.com/rose-pine/btop/
+ls
+cd btop
+ls
+mv rose-pine.theme ~/.config/btop/themes/
+hx .config/helix/config.toml
+hx Project_Fromage.md
+light -S 1
+ls
+rm -rf btop
+ls
+blender
+sudo pacman -Syu
+networkctl list
+networkctl -h
+networkctl status
+networkctl forcerenew
+networkctl forcerenew -h
+networkctl forcerenew wlan0
+networkctl reload
+networkctl -h
+nmcli
+nm 
+nm-connection-editor 
+networkctl 
+networkctl
+networkctl -h
+networkctl reload
+sudo networkctl reload
+sudo nm 
+sudo networkctl 
+sudo networkctl -h
+sudo networkctl list
+chromium
+huiontablet
+paru -Sy huiontablet
+huiontablet
+huiontablet 
+ls
+cd /usr/bin/
+ls
+huiontablet 
+huion
+paru -Sy huiontablet
+huiontablet 
+sls
+ls
+cd .config/
+ls
+paru -Sy opentabletdriver
+opentabletdriver
+ols
+ls
+blueman-manager
+curl -fsSL https://bun.sh/install | bash
+bun install
+hx .config/nushell/env.nu
+hx .config/nushell/config.nu
+nu path
+bun
+curl -fsSL https://bun.sh/install | bash
+bun --help
+cd .bun/
+ls
+cd bin/
+ls
+nu --help
+nu -c
+nu --c
+nu --commands
+nu --help
+cd ...
+cd ..
+ls
+cd slworp/
+ls
+nu config
+hx .config/nushell/config.nu
+hx .config/nushell/env.nu
+bun 
+hx .config/nushell/env.nu
+$env.PATH
+bun --help
+$env.PATH
+bun --help
+hx .config/nushell/env.nu
+bun --help
+ls
+bun update
+bun upgrade
+ls
+cd Projects/Software/
+ls
+bun create react
+bun create
+ls
+bun create
+bun init
+ls
+mv Carp/ .
+mv Carp/ ..
+mv Sunfish/ ..
+mv Koi/
+mv Koi/ ..
+ls
+rm -rf .
+rm -rf *
+ls
+cd ..
+mv Koi/ Software/
+mv Sunfish/ Software/
+mv Carp/ Software/
+ls
+cd Fromage/
+ls
+hx firstPass.js
+hx scraping.js
+cd ..
+ls
+rm Fromage/
+rm -rf Fromage/
+ls
+cd Nova/
+ls
+cd Notes/
+ls
+hx Label_Text_Generator
+cd ..
+ls
+cd ..
+ls
+cd Nova/
+ls
+cd ..
+cd Software/
+ls
+cd ..
+ls
+mv Nova/ Software/
+cd Software/
+mkdir Fromage
+mv Nova/ Fromage/
+ls
+cd Fromage/
+ls
+mv Nova/ Nova_Red_Tape/
+l
+ls
+mv Nova_Red_Tape/ Non_Code/
+ls
+cd ..
+ls
+mv LearnGo/
+cd LearnGo/
+ls
+hx Notes.md
+hx Tour/
+ls
+Tour/
+cd Tour/
+ls
+cd ..
+ls
+light -S 100
+iwctl 
+light -S 10
+iwctl
+chromium
+chromium --ozone-platform-hint=auto
+wezterm -e chromium && disown
+wezterm -e chromium and disown
+chromium help
+chromium --help
+man chromium
+paru -Sy man
+chromium --ozone-platform-hint=auto
+wezterm start chromium --ozone-platform-hint=auto
+wezterm start chromium --always-new-process --ozone-platform-hint=auto
+chromium --ozone-platform-hint=auto & detach
+paru -Sy pueue
+pueue chromium
+pueue -- chromium
+pueue start chromium
+pueue add -- chromium --ozone-platform-hint=auto
+pueue
+pueue -d
+systemctl --user start pueued.service
+systemctl --user enable pueued.service
+pueue -d
+pueued
+pueued -d
+pueue add -- chromium --ozone-platform-hint=auto
+mkdir models
+ls
+mv models/ Utils/
+ls
+cd Utils/
+ls
+cd models/
+wget https://gpt4all.io/models/ggml-gpt4all-j.bin -O models/ggml-gpt4all-j
+which wget
+mkdir ggml-gpt4all-j
+wget https://gpt4all.io/models/ggml-gpt4all-j.bin -O models/ggml-gpt4all-j
+wget https://gpt4all.io/models/ggml-gpt4all-j.bin -O ggml-gpt4all-j
+cd ..
+hx
+paru -Sy shellGPT
+paru -Sy shell-gpt
+shellgp
+shell-gpt
+shells
+cd ..
+cd slworp/
+paru -Sy nimlangserver
+wget https://gpt4all.io/models/ggml-gpt4all-j.bin -O ggml-gpt4all-j
+paru -Sy nimble
+nimble install nimlangserver
+ls
+mv ggml-gpt4all-j models/
+ls
+cd models/
+ls
+cd ggml-gpt4all-j/
+ls
+cd ..
+ls
+hx ggml-gpt4all-j
+ggml-gpt4all-j
+mv ggml-gpt4all-j models/ggml-gpt4all-j/
+ls
+cd models/ggml-gpt4all-j/
+ls
+which docker
+paru -Sy docker
+ls
+docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+docker run
+docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+which docker
+docker
+docker run -p 8080:8080 -v $PWD/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+docker run --help
+sudo systemctl unmask docker
+sudo systemctl start docker
+systemctl list-unit-files
+sudo systemctl enable docker
+sudo systemctl start docker
+sudo systemctl start docker.service
+systemctl start docker.service
+docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 -d
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 
+paru -Sy runc
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 
+paru -Sy GLIBC
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 
+sudo pacman -Syu
+paru -Syu
+paru -R waybar-hyperland-git
+paru -R waybar
+waybar
+paru --help
+paru -R waybar
+which waybar
+pacman -R waybar
+sudo pacman -R waybar
+rm /usr/bin/waybar
+sudo rm /usr/bin/waybar
+sudo pacman -R waybar
+sudo pacman -Syu
+ls
+paru -R waybar-hyprland-git 
+curl http://localhost:8080/v1/models
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 
+sudo pacman -Syu
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 -d
+sudo docker run -d 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 
+sudo docker run -p 8080:8080 -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 -d
+sudo docker run -p 8080:8080 -d -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+curl http://localhost:8080/v1/models
+sudo docker run -p 8080:8080 -d -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+curl http://localhost:8080/v1/models
+shellgpt
+hx .config/nushell/env.nu
+hx .config/nushell/config.nu
+hx .config/nushell/env.nu
+hx .config/hypr/hyprpaper.conf
+starship init nu | save -f ~/.cache/starship/init.nu
+startship
+hx .config/starship.toml
+starship
+starship init nu
+source starship.nu
+hx .config/starship.toml
+hx .config/nushell/config.nu
+ls
+sudo docker run -p 8080:8080 -d -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4 -d
+curl http://localhost:8080/v1/models
+sudo docker run -p 8080:8080 -d -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+curl http://localhost:8080/v1/models
+iwc
+iwctl
+systemctl start iwd.service
+ping google.com
+nmcli
+networkctl reload
+sudo networkctl reload
+ls
+iwctl 
+systemctl start iwd.service
+which ping
+ping www.google.com
+docker
+docker --help
+sudo docker run -p 8080:8081 -d -v ~/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+sudo docker run -p 8080:8081 -d -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models --context-size 700 --threads 4
+docker --help
+docker rm 
+docker rm --help
+docker rm -f
+sudo docker run -p 8080:8081 -d -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models --context-size 700 --threads 4
+curl http://localhost:8081/v1/models
+docker 
+sudo docker run -p 8080:8081 -d -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models --context-size 700 --threads 4
+sudo docker run -p 8080:8080 -d -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models --context-size 700 --threads 4
+sudo btop
+sudo docker run -p 8080:8080 -d -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models --context-size 700 --threads 4
+curl http://localhost:8081/v1/models
+curl http://localhost:8080/v1/models
+sudo docker run -p 8080:8080 -d -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models --context-size 700 --threads 4
+docker stop 
+docker stop --help
+docker stop a70e1e1d1e2eba9050366205a9016f13281143720c83a7380a7f8549b5a8c5f3
+sudo docker stop a70e1e1d1e2eba9050366205a9016f13281143720c83a7380a7f8549b5a8c5f3
+cd Utils/models/ggml-gpt4all-j/
+mv * ..
+ls
+cd ..
+mv ggml-gpt4all-j/ bad_name/
+cd bad_name/
+mv * ..
+cd ..
+ls
+rm -rf bad_name/
+ls
+curl http://localhost:8080/v1/models
+sudo docker run -p 8080:8080 -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models --context-size 700 --threads 4
+sudo docker run -p 8080:8080 -v ~/Utils/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models/ --context-size 700 --threads 4
+cd /home/slworp/Utils/models
+sudo docker run -p 8080:8080 -v ~/Utils/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path ~/Utils/models/ --context-size 700 --threads 4
+cd /home/slworp/Utils/models
+cd ~/
+curl http://localhost:8080/v1/models
+curl http://localhost:8080
+curl http://localhost:8080/
+curl http://localhost:8080/v1/Utils/models
+curl http://localhost:8080/v1/models
+pip install shell-gpt
+paru -Sy pip
+paru -Sy python3
+pip
+python3 -m pip install shell-gpt
+python3 pip install shell-gpt
+pip install shell-gpt
+paru -Sy shellgpt-git 
+shell-gpt
+sgpt 
+sgpt --help
+cd .config/shell_gpt/
+ls
+hx .sgptrc
+curl http://localhost:8080/v1/models
+sgpt --create-role "local_llm"
+sgpt --role local_llm "show all txt files in current folder"
+$env.PWD
+cd ..
+ls
+cd ~/Utils/models/
+docker run -p 8080:8080 -v $env.PWD/models:/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+cd ..
+docker run -p 8080:8080 -v $env.PWD/models -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+docker run -p 8080:8080 -v $env.PWD -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+sudo docker run -p 8080:8080 -v $env.PWD -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+curl http://localhost:8080/v1/models
+sgpt "What is love?"
+sgpt --help
+sgpt
+sgpt --help
+sgpt --list-roles
+sgpt --role local_llm "show all txt files in current folder"
+hx .config/shell_gpt/.sgptrc
+docker run -p 8080:8080 -v $env.PWD -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 4
+sgpt --role local_llm "show all txt files in current folder"
+sgpt --role local_llm "what is love"
+sgpt --role local_llm --chat
+sgpt --role local_llm --chat "what is love"
+sgpt --role local_llm --help
+sgpt --role local_llm --chat "temp"
+sgpt --role local_llm --chat "temp" "what is love?"
+docker run -p 8080:8080 -v $env.PWD -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 6
+sudo docker run -p 8080:8080 -v $env.PWD -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 6
+cd Utils/
+sgpt --role local_llm --chat "temp" "what is love?"
+sudo docker run -p 8080:8080 -v $env.PWD -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 6
+sudo sgpt --role local_llm --chat "temp" "what is love?"
+sudo sgpt --chat "temp" "what is love?"
+sudo sgpt --help
+sgpt --role local_llm --chat "temp" "what is love?"
+hx .config/shell_gpt/.sgptrc
+hx .config/shell_gpt/roles/local_llm.json
+sgpt --role local_llm --chat "temp" "create a directory with sub-folders, one sub-folder for each month"
+curl http://localhost:8080/v1/models
+s
+clear
+ls
+cd .config/shell_gpt/
+ls
+hx .sgptrc
+sgpt
+sgpt "What is love?"
+docker info
+hx /etc/groups
+hx /etc/group
+sudo hx /etc/group
+curl http://localhost:8080/v1/models
+sudo docker run -p 8080:8080 -v $env.PWD -ti --rm quay.io/go-skynet/local-ai:latest --models-path /models --context-size 700 --threads 6
+curl http://localhost:8080/v1/models
+hx .sgptrc
+cd roles/
+ls
+curl http://localhost:8080/v1/models
+sgpt "What is love?"
+sgpt --role "local-llm" "What is love?"
+sgpt --role local_llm --chat "temp" "create a directory with sub-folders, one sub-folder for each month"
+hx .config/shell_gpt/.sgptrc
+ls
+cd ..
+ls
+hx .sgptrc
+sgpt --role local_llm --chat "temp" "create a directory with sub-folders, one sub-folder for each month"
+ls
+sgpt --role local_llm --chat "temp" "what is love?"
+sgpt --role local_llm "what is love?"
+sgpt --role local_llm "show all txt files in current folder"
+cd ..
+ls
+cd ..
+ls
+cd models/
+ls
+cd ..
+sgpt --role local_llm "remove all empty directories"
+ls
+rm -rf *
+ls
+cd Utils/
+cd ..
+ls
+cd slworp/
+ls
+hx .config/
+cd .config/
+ls
+sgpt --role local_llm "restore deleted utilities"
+cd .config/hypr/
+ls
+cd /etc/sddm.conf.d/
+ls
+hx default.conf
+cd /usr/share/sddm/themes/sddm-rose-pine/Assets
+ls
+UnicodeNameMappingGenerator 
+feh User.svgz
+thunar
+dolphin
+cd /usr/share/sddm/themes/sddm-rose-pine/Assets
+ls
+cp * /home
+sudo cp * /home
+cd /usr/share/sddm/themes/sddm-rose-pine/Assets
+ls
+sudo cp * ~/
+cd ..
+ls
+background.jpg
+feh background.jpg
+cp background.jpg ~/
+cd /
+lls
+cd home/
+ls
+rm *.svgz
+sudo rm *.svgz
+ls
+rm *.svgz
+ls
+cd Media/
+ls
+cd ..
+ls
+mkdir Downloads
+mkdir Documents
+ls
+mv background.jpg Media/
+ls
+cd Media/
+ls
+mkdir Wallpaper
+mv background.jpg Wallpaper/
+cd Wallpaper/
+mkdir current
+mkdir other
+cd current/
+ls
+mv ../background.jpg .
+ls
+hx ~/.config/hypr/hyprpaper.conf
+hyprpaper 
+pueue hyprpaper
+pueue add hyprpaper
+pueue add -- chromium --ozone-platform-hint=auto
+chromium --ozone-platform-hint=auto & detach
+pueue stop chromium
+pueue shutdown
+pueue add hyprpaper
+pueue -d
+pueue
+pueued 
+pueue add hyprpaper
+systemctl --user enable pueued.service
+systemctl --user start pueued.service
+pueue add hyprpaper
+pueued help
+pueued --help
+pueued -d
+pueued -h
+pueued stop
+pueued chromium
+pueue add hyprpaper
+pueue 
+pueue start
+pueue add hyprpaper
+pueue
+pueue -h
+hx --health
+paru -Sy nimlangserver
+nimble
+nimble install nimlangserver
+hx --health
+hx
+hx --health
+ls
+~/.nimble/bin/nimlangserver
+cd ~~
+cd ~/.nimble/bin/
+ls
+nimble run nimlangserver
+nimlangserver
+hx --health
+./nimlangserver
+hx ~/.config/helix/languages.toml
+hx ~/.config/nushell/env.nu
+hx --health
+pueue blueman
+hx test.nim
+nimble run test.nim
+mv test.nim test.nimble
+nimble run test.nimble
+hx test.nim
+hx test.nimble
+nimble run test.nimble
+nimble c test.nimble
+mv test.nimble test.nim
+nimble c test.nim
+nim --help
+nimble r test.nim
+nimble c test.nim
+nim r test.nim
+iwc
+ls
+nim r test.nim
+iwctl 
+ls
+mkdir Utils
+ls
+hx test.nim
+ls
+paru -Sy gopls
+hx --heath
+hx --health
+go install github.com/go-delve/delve/cmd/dlv@latest
+sudo go install github.com/go-delve/delve/cmd/dlv@latest
+ls
+rm test.nim
+ls
+hx --health
+hx .config/helix/config.toml
+hx .config/helix/languages.toml
+ls
+cd ..
+ls
+cd ..
+ls
+go --help
+gopath
+go gopath
+go help gopath
+ls
+cd ~/
+ls
+cd /
+ls
+cd usr/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd ..
+lls
+cd ..
+ls
+cd etc/
+ls
+cd ..
+go
+go install github.com/go-delve/delve/cmd/dlv@latest
+go gopath
+go help gopath | hx
+l
+cd ~/
+ls
+mkdir Scripts
+mkdir Scripts/Go
+go env -w GOPATH=$HOME/Script/Go
+go env -w GOPATH=~/Script/Go
+go env -w GOPATH=/slworp/home/Script/Go
+go install github.com/go-delve/delve/cmd/dlv@latest
+go env -w GOPATH=/home/slworp/Script/Go
+cd /home/slworp/
+ls
+hx .config/nushell/config.nu
+go install github.com/go-delve/delve/cmd/dlv@latest
+mkdir .go
+ls
+cd Script/
+ls
+cd Go/
+ls
+cd ..
+mv Go/ ~/.go/
+ls
+cd ~/.go/
+ls
+cd Go/
+mv * ..
+cd ..
+ls
+rm Go/
+ls
+hx --health
+ls
+rm Script/ Scripts/
+rm -rf Script/ Scripts/
+ls
+cd Utils/
+ls
+pacman -Syu
+sudo pacman -Syu
+cd /etc/systemd/
+ls
+hx sleep.conf
+systemctl suspend
+systemctl hibernate
+hx /etc/systemd/sleep.conf
+sudo hx /etc/systemd/sleep.conf
+ls
+sudo hx /etc/systemd/sleep.conf
+hx
+chmod +777 soix
+soix
+./soix
+acpi
+paru -Sy powersave
+sudo hx /etc/systemd/logind.conf
+systemctl kill -s HUP systemd-logind
+paru -Sy laptop-mode-tools
+laptop_mode
+sudo laptop_mode
+/etc/laptop-mode/laptop-mode.conf
+screendump
+paru -Sy grim
+systemctl enable laptop-mode.service
+systemctl start laptop-mode.service
+grim
+grim - | wl-copy
+light 
+light -S 3
+sudo hx /etc/systemd/logind.conf
+sudo hx /etc/laptop-mode/laptop-mode.conf
+ls
+rm soix `20230919_17h46m33s_grim.png`
+ls
+cd Downloads/
+ls
+hx dunstrc1
+cd /usr/share/icons/Papirus-Dark/
+ls
+feh *
+feh
+cd 18x18/
+ls
+cd ..
+ls
+cd ..
+ls
+mkdir .config/dunst/
+cd .config/dunst/
+touch dunstrc
+wofi 
+wofi --show
+wofi --help
+wofi -h
+wofi
+dunst
+cd .config/dunst/
+ls
+hx dunstrc
+dunst
+hx dunstrc
+clear
+hx .config/dunst/dunstrc
+dunst
+hx .config/dunst/dunstrc
+dunst
+hx .config/hypr/hyprland.conf
+kill steam
+hyprctl --help
+hyprctl kill steam
+iwc
+hx .config/starship.toml
+hx .config/hypr/hyprland.conf
+pueue
+pueue parallel
+pueue -h
+start wezterm
+blender
+hx --health
+hx --help
+npm install -D tailwindcss
+ls
+cd node_modules/
+ls
+cd ..
+ls
+npx tailwindcss init
+ls
+hx tailwind.config.js
+mkdir src
+ls
+cd src
+ls
+touch input.css
+hx input.css
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+cd ..
+ls
+cd src/
+ls
+hx input.css
+hx index.html
+ls
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+:q
+cd ..
+ls
+cd dist/
+ls
+hx output.css
+rm -rf dist
+rm -rf node_modules/
+ls
+cd ..
+ls
+rm -rf node_modules/
+rm *.json
+rm src
+rm -rf src
+rm tailwind.config.js
+ls
+rm -rf dist
+ls
+hx .config/helix/languages.toml
+paru -Sy tailwindcss-language-server
+hx --health
+cargo xtask docgen
+ls
+hx --health
+hx .config/helix/languages.toml
+tailwindcss-language-server
+hx .config/helix/languages.toml
+tailwindcss-language-server
+hx --health
+hx
+hx --health
+hx
+hx --health
+hx .config/helix/languages.toml
+npm config get prefix
+npm i helix-twcss -
+ls
+rm node_modules/
+rm -rf node_modules/
+rm *.json
+ls
+npm i helix-twcss -g
+sudo npm i helix-twcss -g
+ls
+npm config get prefix
+cd usr/
+cd /usr
+ls
+cd bin/
+ls
+wcd ~/
+ls
+clear
+cd ~/
+ls
+ls -all
+cd .npm/
+ls
+cd _npx/
+ls
+cd ..
+ls
+cd ..
+ls -all
+cd .config/
+ls
+cd ..
+ls
+ls -all
+cd .nv/
+ls
+cd ..
+ls
+npm list -g
+hx-tw
+hx .config/helix/languages.toml
+hx --health
+hx .config/helix/languages.toml
+npm list -g
+hx index.html
+hx --health
+npm i @tailwindcss/language-server@insiders
+ls
+rm -rf node_modules/ package-lock.json package.json
+ls
+npm i @tailwindcss/language-server@insiders -g
+sudo npm i @tailwindcss/language-server@insiders -g
+hx --health
+hx index.html
+hx-tw 
+hx .config/helix/languages.toml
+hx index.html
+hx .config/helix/languages.toml
+hx --health
+hx .config/helix/languages.toml
+hx --health
+npx hx-tw
+hx .config/helix/languages.toml
+hx --health
+hx .config/helix/languages.toml
+hx index.html
+hx .config/helix/languages.toml
+hx index.html
+hx .config/helix/languages.toml
+hx --health
+paru -Sy vscode
+vscode
+code
+paru -R code
+hx index.html
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim<\n>nvim
+paru -Sy astrovim
+paru -Sy astronvim
+nvim .config/nvim/init.lua
+nvim .config/nvim/config.ld
+paru -R astronvim
+paru clean
+paru --help
+paru -c
+micro
+paru -Sy micro
+hx --health
+tailwindcss 
+tailwindcss init
+ls
+hx index.html
+hx .config/helix/languages.toml
+hx index.html
+hx -v | logs.md
+hx -v 
+hx -v index.html
+hx -v index.html | hx log
+hx -v index.html
+hx -help
+hx ---help
+hx --help
+paru -Sy tree-sitter
+ls
+hx --help
+hx -g build
+hx -g fetch
+hx -g build
+hx index.html
+wezterm start hx -v index.html
+wezterm start hx -v > wezterm
+wezterm start hx -v >out logs.txt
+ls
+hx
+hx index.html
+date
+date humanize 
+date now
+hx .config/helix/languages.toml
+hx index.html
+hx .config/helix/languages.toml
+hx --health
+hx source.css
+hx --health
+hx .config/helix/languages.toml
+npm i @tailwindcss/language-server -g
+sudo npm i @tailwindcss/language-server -g
+tailwindcss-language-server 
+tailwindcss-language-server -h
+hx index.html
+hx --health
+hx .config/helix/languages.toml
+hx  --health
+hx .config/helix/languages.toml
+hx  --health
+hx grammar fetch
+hx --grammar fetch
+hx --grammar build
+hx  --health
+hx .config/helix/languages.toml
+hx  --health
+hx .config/helix/languages.toml
+hx  --health
+hx  index.html
+ls
+hx tailwind.config.js
+ls
+tailwindcss-language-server 
+hx  index.html
+hx  --health
+lx
+ls
+hx source.css
+mkdir src
+mv index.html src/
+cd src/
+ls
+touch index.html
+touch input.css
+ls
+hx input.css
+tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+cd ..
+hx src/index.html
+ls
+hx tailwind.config.js
+hx src/index.html
+ls
+hx source.css
+rm source.css
+hx src/input.css
+tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+hx src/index.html
+hx --v src/index.html
+hx -v src/index.html
+hx dist/output.css
+ls
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+npm i @tailwindcss/language-server@insider -g
+sudo!!
+sudo npm i @tailwindcss/language-server -g
+hx .config/helix/languages.toml
+tailwindcss-language-server 
+tailwindcss-language-server | hx
+tailwindcss-language-server | cat
+hx
+hx -v src/index.html
+hx-tw
+hx .config/helix/languages.toml
+hx
+hx .config/helix/languages.toml
+hx -v src/index.html
+hx .config/helix/config.toml
+hx -v src/index.html
+hx
+hx .config/helix/languages.toml
+hx -v src/index.html
+hx .config/helix/languages.toml
+hx -v src/index.html
+npm i helix-twcss -g
+sudo npm i helix-twcss -g
+hx -v src/index.html
+hx
+hx .config/helix/languages.toml
+hx -v src/index.html
+hx .config/helix/languages.toml
+hx -v src/index.html
+hx --health
+hx -vvv src/index.html
+hx
+hx .config/helix/languages.toml
+git clone https://github.com/helix-editor/helix
+cd helix/
+ls
+cd .config/helix/
+ls
+cp * ~/
+cp -r * ~/
+cd runtime/
+ls
+cd ..
+ls
+sudo cp -r * ~/
+cd ~/
+ls
+mkdir hx_bkp
+mv config.toml hx_bkp/
+mv languages.toml hx_bkp/
+mv runtime/ hx_bkp/
+mv themes/ hx_bkp/
+ls
+cd .config/helix/
+ls
+cd ..
+;s
+cd .config/helix/
+ls
+hx ~/src/index.html
+lw
+ls
+hx .config/helix/languages.toml
+cd hx_bkp/
+ls
+hx languages.toml
+hx .config/helix/config.toml
+cp config.toml ~/.config/helix/
+cp languages.toml ~/.config/helix/
+ls
+hx config.toml
+hx languages.toml
+cd ..
+hx src/index.html
+hx -vvv src/index.html
+hx --health
+cd runtime/grammars/sources/
+ls
+cd html/
+ls
+cd queries/
+ls
+hx injections.scm
+:q
+hx 
+hx ~/.config/helix/languages.toml
+hx -vvv src/index.html
+npm i @tailwindcss/language-server@insiders
+ls
+cd .. ..
+cd .. 
+cd ~/
+ls
+npm i @tailwindcss/language-server@insiders -g
+sudo npm i @tailwindcss/language-server@insiders -g
+paru -R tailwindcss
+npm -h
+npm install -D tailwindcss
+ls
+rm -rf node_modules/ package-lock.json package.json
+ls
+npm install -g tailwindcss
+sudo npm install -g tailwindcss
+npx tailwindcss
+npx tailwindcss init -full
+ls
+hx tailwind.config.js
+npx tailwindcss -i ./src/input.css\\ -o ./dist/output.css --watch
+hx -vvv src/index.html
+hx src/input.css
+hx src/index.html
+hx .config/helix/config.toml
+hx .config/helix/languages.toml
+npm updatte
+npm update
+sudo npm update
+npm -h
+npx uninstall nx
+npx uninstall next
+nx
+paru -R nx
+npx uninstall next
+npx uninstall next@latest
+npm install next@latest react@latest react-dom@latest
+ls
+rm -rf node_modules/ package-lock.json package.json
+npm install next@latest react@latest react-dom@latest -g
+sudo npm install next@latest react@latest react-dom@latest -g
+cd /usr/lib/node_modules/
+ls
+cd @tailwindcss/
+ls
+cd ..
+cd tailwindcss/
+la
+ls
+hx src/index.html
+node -h
+node update
+node -h
+hx  index.html
+ls
+mv tailwind.config.js src/
+mv dist/ src/
+ls
+cd src/
+ls
+hx input.css
+npx tailwindcss -i /input.css -o ./dist/output.css --watch
+hx index.html
+hx .config/helix/languages.toml
+hx index.html
+cd src/
+;s
+ls
+npx tailwindcss -i input.css -o ./dist/output.css --watch
+hx index.html
+hx --health
+ls
+./input.css
+npx tailwindcss -i ./input.css -o ./dist/output.css --watch
+hx tailwind.config.js
+ls
+dat
+date now
+calendar
+ls
+laptop_mode 
+sudo laptop_mode 
+git clone https://github.com/go-skynet/LocalAI
+ls
+rm hx_bkp/
+rm -rf hx_bkp/
+rm -rf helix/
+rm -rf src/
+asusctl
+supergfxctl
+supergfxctl -S
+supergfxctl -m
+supergfxctl -g
+asusctl bios
+asusctl bios -d
+clear
+ls
+cd LocalAI/
+ls
+cd ..
+ls
+rm -u
+rm -u/
+ls
+rm \-u/
+rm \-u
+rm -u
+rm --force -u
+rm --help
+rm -u
+thunar
+dolphin
+clear
+which rm
+hx .config/nushell/config.nu
+ls
+rm index.html
+ls
+rm --help
+clear
+ls
+c
+_
+clear
+cd Trash
+cd /Trash
+find Trash
+ls
+cd ~/.local/share/Trash/
+ls
+ls
+paru -Sy docker-compose
+cd LocalAI/
+ls
+hx .env
+hx docker-compose.yaml
+docker-compose up -d --pull always
+ls
+cd Media/Games/binOne/
+ls
+mkdir LOL
+ls
+rm *
+ls
+cd ~/
+ls
+supergfxctl 
+asusctl 
+asusctl -S
+asusctl -c
+asusctl -c 100
+asusctl fan-curve
+asusctl fan-curve -D
+asusctl fan-curve -h
+asusctl fan-curve -g
+ls
+lsblk -f
+sudo docker-compose up -d --pull always
+chromium --ozone-platform-hint=auto & detach
+nvidia-smi
+sudo docker-compose up -d --pull always
+paru -Sy nvidia-container-toolkit
+nvidia-container-toolkit 
+sudo nvidia-ctk runtime configure --runtime=docker
+sudo nvidia-ctk cdi generate --output=/etc/cdi/nvidia.yaml
+ls
+touch PKGBUILD
+hx PKGBUILD
+makepkg PKGBUILD
+ls
+cd src/
+ls
+nvidia-container-toolkit 
+paru -Sy nvidia-container-toolkit
+sudo nvidia-ctk runtime configure --runtime=docker
+paru -R nvidia-container-toolkit
+nvidia-ctk
+ks
+ls
+cd src/
+ls
+./nvidia-container-toolkit/
+ls
+cd usr/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd ~/
+ls
+rm *.deb
+rm *.zst
+ls
+cd pkg/
+ls
+cd nvidia-container-toolkit/
+ls
+cd usr/
+ls
+cd bin/
+ls
+nvidia-container-cli 
+cd ..
+ls
+cd pkg/
+ls
+cd ..
+cd src/
+ls
+rm pkg/
+rm -rf pkg/
+rm -rf src/
+mkdir nvidia-ctk
+mv PKGBUILD nvidia-ctk/
+cd nvidia-ctk/
+ls
+makepkg PKGBUILD
+ls
+makepkg --install
+ls
+makepkg --clean
+s
+ls
+which nvidia-ctk
+cd ..
+sudo nvidia-ctk runtime configure --runtime=docker
+sudo docker-compose up -d --pull always
+curl http://localhost:8080/models/available
+curl http://localhost:8080/models/
+ls
+cd models/
+ls
+cd ..
+ls
+cd ..
+ls
+rm nvidia-ctk/
+rm -rf nvidia-ctk/
+cd dist/
+ls
+cd ..
+rm -rf dist/
+ls
+cd Script/
+ls
+cd Go/
+ls
+cd pkg/
+ls
+cd mod/
+ls
+cd ~/
+ls
+ls -all
+cd ..
+ls
+cd ~/
+cd LocalAI/
+ls
+cd models/
+ls
+hx docker-compose.yaml
+sudo docker-compose up -d --pull always
+ls -all
+ls
+cd ..
+ls
+ls -all
+hx .env
+sudo docker-compose up -d --pull always
+cd models/
+ls
+cd -all
+ls -all
+ls
+curl http://localhost:8080/models/available
+cd ..
+curl http://localhost:8080/models/available
+ls
+cd api/
+ls
+cd localai/
+ls
+xd ..
+cd ..
+ls
+cd ..
+ls
+hx Dockerfile
+ls
+docker-compose up -d --pull always
+sudo docker-compose up -d --pull always
+cd models/
+ls
+curl http://localhost:8080/models/available
+curl --location 'http://localhost:8080/models/apply' \<\n>--header 'Content-Type: application/json' \<\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}'
+ls
+touch lunademo-chat.tmpl<\n>touch lunademo-completion.tmpl<\n>touch lunademo.yaml
+ls
+hx lunademo-chat.tmpl
+lunademo-completion.tmpl
+hx lunademo-completion.tmpl
+hx lunademo.yaml
+docker-compose restart
+cd ..
+docker-compose restart
+sudo docker-compose restart
+cd models/
+ls
+hx lunademo.yaml
+cd ..
+sudo docker-compose restart
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "lunademo",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'<\n>
+ls
+cd models/
+ls
+hx lunademo.yaml
+ls
+cd  ..
+ls
+cd models/
+ls
+hx docker-compose.yaml
+cd ..
+curl http://localhost:8080/v1/models
+cd models/
+ls
+hx lunademo.yaml
+cd ..
+sudo docker-compose restart
+curl http://localhost:8080/v1/models
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "lunademo",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'<\n>
+cd models/
+ls
+hx lunademo.yaml
+hx docker-compose.yaml
+hx lunademo.yaml
+cd ..
+curl -h
+cd ..
+ls
+cd LocalAI/
+ls
+cd api/
+ls
+cd localai/
+ls
+cd ..
+ls
+docker --help
+cd cmd/
+ls
+cd .
+cd ../models/
+ls
+rm docker-compose.yaml lunademo-chat.tmpl lunademo-completion.tmpl lunademo.yaml
+ls
+cd ..
+ls
+cd cmd/
+ls
+cd ..
+ls
+cd cmd/
+ls
+cd models/
+cd ..
+ls
+cd models/
+ls
+cd ..
+cd cmd/
+ls
+cd grpc/
+ls
+cd ..
+cd cmd/
+touch lunademo-chat.tmpl<\n>touch lunademo-completion.tmpl<\n>touch lunademo.yaml
+hx lunademo-chat.tmpl
+hx lunademo-completion.tmpl
+hx lunademo.yaml
+cd .
+cd ..
+docker-compose restart
+sudo docker-compose restart
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "lunademo",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'<\n>
+curl http://localhost:8080/v1/models
+ls
+cd models/
+ls
+ls -all
+hx .keep
+cd ..
+ls
+rm =
+hx .env
+ls
+cd api/
+ls
+cd backend/
+ls
+cd ..
+ls
+hx README.md
+bash
+bash
+bash
+bash
+bash
+cd LocalAI/
+ls
+curl http://localhost:8080/v1/models
+./entrypoint.sh
+docker-compose restart
+sudo docker-compose restart
+curl http://localhost:8080/v1/models
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "lunademo",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'<\n>
+hx .env
+hx docker-compose.yaml
+docker-compose up -d --pull always
+sudo docker-compose up -d --pull always
+curl http://localhost:8080/models/available
+ls
+cd cmd
+ls
+(curl http://localhost:8080/models/available)
+(curl --location 'http://localhost:8080/models/apply' \<\n>--header 'Content-Type: application/json' \<\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}')
+(curl --location 'http://localhost:8080/models/apply'<\n>--header 'Content-Type: application/json' <\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}')
+ls
+docker-compose restart
+sudo docker-compose restart
+cd models/
+ls
+cd ..
+ls
+curl http://localhost:8080/models/available
+curl http://localhost:8080/models/apply
+hx .env
+sudo docker-compose restart
+ls
+ls -all
+cd ..
+ls
+go run main.go
+make build
+ls
+docker-compose restart
+sudo docker-compose restart
+nvidia-container-cli 
+nvidia-ctk 
+ls
+cd LocalAI/
+ls
+cd ..
+ls
+rm -rf LocalAI/
+sudo rm -rf LocalAI/
+l
+ls
+git clone https://github.com/go-skynet/LocalAI
+cd LocalAI/
+ls
+wget  https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGUF/blob/main/luna-ai-llama2-uncensored.Q4_0.gguf -O models/luna-ai-llama2
+cp -rf prompt-templates/getting_started.tmpl models/luna-ai-llama2.tmpl
+cp -r prompt-templates/getting_started.tmpl models/luna-ai-llama2.tmpl
+cd models/
+ls
+cd ..
+docker compose up -d --pull always
+sudo docker compose up -d --pull always
+curl http://localhost:8080/v1/models
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "luna-ai-llama2",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9<\n>   }'<\n>
+cd ..
+ls
+cd LocalAI/
+ls
+cd models/
+ls
+cd ..
+wget  https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGUF/blob/main/luna-ai-llama2-uncensored.Q4_0.gguf -O models/luna-ai-llama2
+wget https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGUF/blob/main/luna-ai-llama2-uncensored.Q4_0.gguf -O models/luna-ai-llama2
+ls
+cd models/
+ls
+rm *
+ls
+cd ..
+wget  https://huggingface.co/TheBloke/Luna-AI-Llama2-Uncensored-GGUF/blob/main/luna-ai-llama2-uncensored.Q4_0.gguf -O models/luna-ai-llama2
+ls
+cd LocalAI/
+ls
+hx .env
+rm .env
+hx .env
+hx docker-compose.yaml
+curl http://localhost:8080/models/available
+paru -R docker
+paru -Sy docker-compose
+docker-compose
+docker-compose up -d --pull always
+sudo docker-compose up -d --pull always
+paru -Sy docker
+docker
+systemctl enable docker.service
+systemctl start docker.service
+systemctl status docker.service
+systemctl start docker.service
+journal -xeu docker.service
+journalctl -xeu docker.service
+systemctl start docker.service
+hx .env
+sudo docker-compose up -d --pull always
+curl http://localhost:8080/models/available
+curl http://localhost:8080/models/
+docker --help
+docker ps
+sudo docker ps
+sudo docker image
+sudo docker info
+clear
+docker-compose up -d --pull always
+sudo docker-compose up -d --pull always
+curl http://localhost:8080/models/available
+ls
+cd ..
+ls
+ls -all
+cd ..
+cd slworp/LocalAI/
+ls
+docker --help
+docker update
+docker container
+docker container ls
+sudo docker container ls
+cd cmd/
+ls
+cd grpc/
+ls
+cd models/
+ls
+cd ..
+ls
+cd cmd
+ls
+(sudo curl --location 'http://localhost:8080/models/apply' <\n>--header 'Content-Type: application/json' <\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}')<\n>
+cd ..
+cd models/
+ls
+cd ..
+ls
+cd cmd/
+ls
+touch lunademo-chat.tmpl<\n>touch lunademo-completion.tmpl<\n>touch lunademo.yaml
+ls
+hx lunademo-chat.tmpl
+hx lunademo-completion.tmpl
+hx lunademo.yaml
+ls
+cd ..
+ls
+docker-compose restart
+sudo docker-compose restart
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "lunademo",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'<\n>
+cd ..
+ls
+docker 
+docker attach
+docker run (sudo curl --location 'http://localhost:8080/models/apply' <\n>--header 'Content-Type: application/json' <\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}')<\n>
+docker
+cd LocalAI/
+(docker exec sudo curl --location 'http://localhost:8080/models/apply' <\n>--header 'Content-Type: application/json' <\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}')<\n>
+sudo (docker exec sudo curl --location 'http://localhost:8080/models/apply' <\n>--header 'Content-Type: application/json' <\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}')<\n>
+(sudo docker exec curl --location 'http://localhost:8080/models/apply' <\n>--header 'Content-Type: application/json' <\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}')
+cd ~/.config/docker
+docker
+docker-compose
+docker-compose build
+sudo docker-compose build
+sudo docker-compose top
+sgpt --role local_llm 
+sgpt --role local_llm "why am I here?"
+ls
+bto
+cd models/
+ls
+cd ..
+curl http://localhost:8080/models/available\
+curl http://localhost:8080/models/available/
+curl http://localhost:8080/models/apply
+ls
+cd LocalAI/
+ls
+cd go-piper/
+ls
+docker attach
+docker ls
+dockeer
+docker
+docker ps
+sudo docker ps
+sudo docker port
+sudo docker ports
+sudo docker ps -help
+sudo docker ps --help
+sudo docker ps -q
+sudo docker ps -q | docker attach
+sudo docker attach | docker ps -q
+sudo docker attach | sudo docker ps -q
+sudo docker attach | cat sudo docker ps -q
+sudo docker ps -q | cat
+sudo docker ps -q |> id.text
+sudo docker ps -q save id.text
+sudo docker ps -q | save id.text
+ls
+cat id.text
+sudo docker attach 23dd8fa48204
+make run
+sudo docker exec -it 23dd8fa48204
+cd ..
+sudo docker exec -it 23dd8fa48204 curl --location 'http://localhost:8080/models/apply' \<\n>--header 'Content-Type: application/json' \<\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}'<\n>
+ls
+sudo docker exec -it 23dd8fa48204 curl --location 'http://localhost:8080/models/apply' \
+∙ --header 'Content-Type: application/json' \
+∙ --data-raw '{<\n>∙     "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>∙     "name": "lunademo"<\n>∙ }'
+clear
+sudo docker exec -it 23dd8fa48204
+bash
+bash
+curl http://localhost:8080/v1/models
+hx .config/shell_gpt/.sgptrc
+mv .config/shell_gpt/roles/local_llm.json .config/shell_gpt/roles/mel.json
+hx .config/shell_gpt/roles/shell.json
+sgpt --role mel "How's it going, Mel?"
+cd LocalAI/
+docker ps
+sudo docker ps
+hx .config/shell_gpt/.sgptrc
+sgpt --role mel "How's it going, Mel?"
+sgpt --role mel "Pretty good. I'm extremely tired and I have to be up in 3 hours. Any tips?"
+sgpt --role mel "What if I told you I work nightshifts?"
+sgpt --role mel "Not particularly. How are you at coding in go?"
+sgpt --role mel "How about you make a file called 'learn-go.md' that has a cheat sheet for Go-lang and put it in my home directory"
+sgpt --role mel "I need more info! What are some keywords? What do its loops look like? What about pkg management?"
+cd LocalAI/
+ls
+sudo docker exec -it 23dd8fa48204 bash
+sgpt --role mel "grab the /build/lunademo.yaml from within the docker instance for me please"
+sgpt --role mel "that isn't right, I need the command to grab it from within the docker instance"
+sudo docker exec -it 23dd8fa48204 nu
+sudo docker ps
+sudo docker cp localai-api-1:/build/lunademo.yaml
+sudo docker cp localai-api-1:/build/lunademo.yaml .
+hx lunademo.yaml
+sudo hx lunademo.yaml
+sudo hx .env
+sudo hx docker-compose.yaml
+sudo docker-compose up -d --pull always
+curl http://localhost:8080/v1/models
+sudo docker-compose restart
+curl http://localhost:8080/v1/models
+docker ps
+sudo docker ps
+curl http://localhost:8080/
+sudo curl
+sudo curl http://localhost:8080/
+docker reset
+docker --help
+docker kill localai-api-1
+sudo docker kill localai-api-1
+sudo docker ps
+sudo docker-compose up -d --pull always
+curl http://localhost:8080/
+sudo docker ps
+btop
+docker exec localai-api-1 bash
+sudo docker exec localai-api-1 bash
+sudo docker ps
+sudo docker exec localai-api-1 bash
+sudo docker exec -it localai-api-1 bash
+curl http://localhost:8080/
+curl http://localhost:8080/models/available/
+paru -Sy nvtop
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "lunademo",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'
+sgpt --role mel "Hey Mel, do you remember our conversation so far?"
+sgpt --role mel "What did we talk about?"
+sgpt --role mel "No, YOU'RE the sassy assistant"
+hx LocalAI/lunademo.yaml
+hx .config/shell_gpt/roles/shell.json
+hx .config/shell_gpt/roles/mel.json
+hx .config/shell_gpt/roles/shell.json
+hx .config/shell_gpt/roles/mel.json
+hx .config/shell_gpt/.sgptrc
+cd .config/shell_gpt/roles/
+ls
+mv mel.json default.json
+mv mel.json default.json -f
+cd ..
+ls
+cd ~/
+sgpt "What was that about staying awake?"
+sgpt "Nevermind, I actually think I was having that conversation with someone else"
+sgpt "What's your role here?"
+sgpt "I like your name, is it short for something?"
+sgpt -shell "Show me fizz-buzz in Go"
+sgpt --code "Show me fizz-buzz in Go"
+sgpt --code "solve classic fizz buzz problem using Python" > fizz_buzz.py
+ls
+hx test.py
+sgpt --code "solve classic fizz buzz problem using Python" | save test.py
+sgpt now do the same, but in go-lang
+ls
+sgpt "now do the same, but in go-lang"
+ls
+sgpt --code "solve classic fizz buzz problem using Go" | save test.go
+hx test.go
+sgpt can you edit a file for me?
+sgpt "can you edit a file for me?"
+sgpt "go into the test.go file at ~/ and change the for loop so it ends at 1000"
+sgpt "just change the for loop so it stops at 1000 instead of 100"
+hx test.go
+sgpt --repl
+sgpt --repl temp
+sgpt --install-integration
+zsh
+sgpt wheres the trash folder on my system?
+sgpt --cht
+sgpt --chat
+sgpt --chat temp
+sgpt --chat "wheres the trash folder on my system?"
+sgpt --help
+sgpt --chat "temp"
+sgpt --editor
+$env.EDITOR hx
+$env.EDITOR=hx
+$env.EDITOR = hx
+sgpt --editor
+cd .local/share/Trash/
+ls
+cd files/
+ls
+:q
+cd ..
+ls
+cd info/
+ls
+cd ~/.config/shell_gpt/roles/
+ls
+hx shell.json
+sgpt --shell --repl
+sgpt --shell --repl 'temp'
+hx .config/shell_gpt/.sgptrc
+cd ..
+hx .sgptrc
+sgpt --shell --repl 'temp'
+ls
+cd roles/
+ls
+hx shell.json
+hx default.json
+cd ..
+ls
+cd ..
+sgpt --shell --repl "temp"
+sgpt --code
+sgpt --code "solve classic fizz buzz problem using Go" | save test.go
+sgpt --code "solve classic fizz buzz problem using Go" | save test.go -f
+sgpt --code --repl "temp"
+sgpt --show-roles
+sgpt --list-roles
+sgpt --role shell 
+hx shell_gpt/
+hx shell_gpt/roles/shell.json
+sgpt --role shell --repl "temp"
+sgpt -s --code --repl "temp"
+sgpt --shell --repl "temp"
+cd ~
+ls
+curl http://localhost:8080/models/available/
+curl http://localhost:8080/models/available/ | save models.txt
+chrome
+clear
+chromium --ozone-platform-hint=auto & detach
+cler
+clear
+docker --help
+docker run chromium
+sudo docker run chromium
+pueue chromium
+pueue --help
+pueue parallel 10
+pueue add chromium
+pueue clean
+pueue status
+pueue start
+clear
+cd LocalAI/
+ls
+docker-compose up -d --pull always
+sudo docker-compose up -d --pull always
+sudo docker status
+sudo docker --help
+sudo docker ps
+cd ..
+sgpt "hello!"
+cd LocalAI/
+ls
+curl http://localhost:8080/models/available/ | save models.txt
+ls
+hx models.txt
+docker exec localai-api-1 curl --location 'http://localhost:8080/models/apply' \<\n>--header 'Content-Type: application/json' \<\n>--data-raw '{<\n>    "id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin",<\n>    "name": "lunademo"<\n>}'<\n>
+docker exec localai-api-1 curl --location 'http://localhost:8080/models/apply' --header 'Content-Type: application/json' --data-raw '{"id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin","name": "lunademo"}'
+sudo docker exec localai-api-1 curl --location 'http://localhost:8080/models/apply' --header 'Content-Type: application/json' --data-raw '{"id": "TheBloke/Luna-AI-Llama2-Uncensored-GGML/luna-ai-llama2-uncensored.ggmlv3.q5_K_M.bin","name": "lunademo"}'
+ls
+hx
+hx models.txt
+docker exec localai-api-1 bash
+sudo docker exec localai-api-1 bash
+sudo docker exec -it localai-api-1 bash
+curl http://localhost:8080/v1/models
+sudo docker exec -it localai-api-1 bash
+ls
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+hx lunademo.yaml
+sudo hx lunademo.yaml
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+touch wizard-chat
+sudo hx lunademo.yaml
+touch wizard-chat.tmpl
+hx wizard-chat.tmpl
+hx wizard-completion.tmpl
+sudo docker cp wizard-chat.tmpl localai-api-1:/build/wizard-chat.tmpl
+sudo docker cp wizard-completion.tmpl localai-api-1:/build/wizard-completion.tmpl
+sudo docker-compose restart
+ls
+cd ..
+hx .config/shell_gpt/.sgptrc
+NVTOP
+sgpt "hello!"
+hx .config/shell_gpt/roles/
+docker ps
+sudo docker ps
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "wizard",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'
+curl http://localhost:8080/v1/models
+cd LocalAI/
+ls
+hx lunademo.yaml
+curl http://localhost:8080/models/available/ | save models.txt
+hx models.txt
+docker exec localai-api-1 bash
+sudo docker exec -it localai-api-1 bash
+curl http://localhost:8080/v1/models
+thebloke__wizardlm-13b-v1-0-uncensored-superhot-8k-ggml__wizardlm-13b-v1.0-superhot-8k.ggmlv3.q4_k_m.bin
+cd ..
+hx .config/shell_gpt/.sgptrc
+cd LocalAI/
+cd wizardCurl.sh
+hx wizardCurl.sh
+ls
+thebloke__wizardlm-13b-v1-0-uncensored-superhot-8k-ggml__wizardlm-13b-v1.0-superhot-8k.ggmlv3.q4_k_m.bin
+hx wizardCurl.sh
+chmod +777 wizardCurl.sh
+ls
+./wizardCurl.sh
+curl http://localhost:8080/v1/models
+sudo docker exec -it localai-api-1 bash
+sudo docker cp wizardCurl.sh localai-api-1:/build/
+cd LocalAI/
+sudo docker-compose restart
+curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{<\n>     "model": "wizard",<\n>     "messages": [{"role": "user", "content": "How are you?"}],<\n>     "temperature": 0.9 <\n>   }'
+sgpt "hello!"
+hx .config/shell_gpt/.sgptrc
+cd ..
+hx .config/shell_gpt/.sgptrc
+sgpt
+sgpt --help
+sgpt --chat
+sgpt --chat "temp"
+sgpt --chat "temp" "hello!"
+(curl --request POST<\n>  --url http://localhost:8080/v1/completions <\n>  --header 'Content-Type: application/json' <\n>  --data '{<\n>    "model": "wizard",<\n>    "prompt": "function downloadFile(string url, string outputPath) {",<\n>    "max_tokens": 256,<\n>    "temperature": 0.5<\n>}')
+ls
+sgpt "what is love?"
+sgpt "what are gpu layers?"
+ls
+cd LocalAI/
+ls
+hx lunademo.yaml
+sudo hx lunademo.yaml
+ls
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+sgpt 
+sgpt "I just 8x'd your GPU layers! How's it feel?"
+sudo docker exec -it localai-api-1 bash
+sudo hx lunademo.yaml
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+sudo docker exec -it localai-api-1 bash
+sgpt 
+sgpt "Tell me a joke, please!"
+sudo hx lunademo.yaml
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+spgt "That's so cool! How are you at writing code?"
+sgpt "That's so cool! How are you at writing code?"
+sudo docker exec -it localai-api-1 bash
+ls
+sudo hx lunademo.yaml
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+sgpt "When did you become a wizard?"
+sudo docker exec -it localai-api-1 bash
+sgpt "How many GPU layers should I provide an AI model if I have a NVIDIA GeForce RTX 3060?"
+hx lunademo.yaml
+sudo hx lunademo.yaml
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+sudo docker exec -it localai-api-1 bash
+sgpt "Where do you think the state of AI will be by the year 2030?"
+sudo hx lunademo.yaml
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+sgpt "Interesting. I hope GPU's don't reach a performance ceiling any time soon"
+sgpt "Yes... good points."
+sgpt --shell --repl "temp"
+hx test.go
+sgpt --code "solve classic fizz buzz problem using Go" | save test.go -f
+hx test.go
+go run test.go
+hx test.go
+go run test.go
+hx test.go
+go run test.go
+hx test.go
+go run test.go
+sudo docker exec -it localai-api-1 bash
+sgpt "That code was awful"
+sgpt "The expected output for your code is: <\n>1<\n>2<\n>Fizz<\n>4<\n>Buzz<\n>Fizz<\n>7<\n>8<\n>Fizz<\n>Buzz<\n>11<\n>Fizz<\n>13<\n>14<\n>FizzBuzz<\n>15<\n><\n>Whereas your code's actual output was:"
+sgpt "Can you correc the code then, please?"
+sgpt "It's suppose to be go code"
+sgpt "hello?"
+hx lunademo.yaml
+sudo hx lunademo.yaml
+sudo docker cp lunademo.yaml localai-api-1:/build/wizard.yaml
+sudo docker exec -it localai-api-1 bash
+sgpt "Please show me some go code to complete the classic 'FizzBuzz' interview question"
+sgpt "I need to get to sleep quickly, help"
+sgpt "what time is it?"
+sgpt "How do you know that?"
+hx .config/shell_gpt/.sgptrc
+sgpt "What happens if you put the date now command into the console?"
+hx .config/shell_gpt/roles/
+sgpt --shell --repl "temp"
+cd LocalAI/
+docker stop
+docker stop localai-api-1
+sudo docker stop localai-api-1
+ls
+cd ..
+ls
+rm models.txt
+ls
+rm LocalAI/
+rm -rf LocalAI/
+ls
+dockekr ps
+docker ps
+sudo docker ps
+docker --help
+sudo docker ps
+sudo docker images
+sudo docker image 
+sudo docker image rm 
+sudo docker image rm *
+sudo docker image rm all
+sudo docker image rm --all
+sudo docker image rm --help
+sudo docker image rm -f
+sudo docker image rm -f locale quay.io
+sudo docker image rm -f latest
+sudo docker image rm -f quay.io/go-skynet/local-ai
+sudo docker images
+sudo docker image rm -f 5f17aa2f355a
+d8764d111fe2
+sudo docker image rm -f d8764d111fe2
+docker images
+sudo docker images
+docker
+hx
+ls
+rm _hyperscript.txt
+hx
+ls
+rm test.go
+rm test.py
+rm htmx
+ls
+mkdir templ_test
+cd templ_test/
+ls
+go install github.com/a-h/templ/cmd/templ@latest
+ls
+go --help
+go env
+go mod init github.com/saalico/hello_templ
+touch hello.templ
+hx hello.templ
+templ generate
+nu.env-path
+$env.path
+$env.PATH
+hx .config/nushell/config.nu
+ls
+cd Script/
+ls
+cd Go/
+ls
+cd bin/
+ls
+cd ..
+go --help
+go gopath
+go gopath=~/.go
+go help gopath
+hx ~/.config/nushell/env.nu
+go env -w GOPATH=$HOME/.go/bin
+go env -w GOPATH=$HOME/.go/bin/
+go env -w GOPATH="$HOME/.go/bin/"
+ls
+cd /home/slworp/
+go env -w GOPATH=/home/slworp/.go/bin
+ls
+cd ~/.go/bin/
+ls
+dlv
+go run dlv
+cd ..
+ls
+cd ..
+ls
+rm Script/
+rm -rf Script/
+sudo rm -rf Script/
+ls
+cd templ_test/
+go mod init github.com/saalico/hello_templ
+go install github.com/a-h/templ/cmd/templ@latest
+hx ~/.config/helix/languages.toml
+hx --health
+templ lsp
+templ
+hx .config/nushell/env.nu
+templ
+go env -w GOPATH=/home/slworp/.go/
+go install github.com/a-h/templ/cmd/templ@latest
+templ 
+templ lsp --help
+hx 
+cd templ_test/
+s
+ls
+hx .config/helix/languages.toml
+hx --health
+templ lsp
+hx ~/.config/helix/languages.toml
+hx --health
+cargo xtask docgen
+which hx
+ls
+cd /usr/bin/
+ls
+cargo xtask docgen
+cargo --list
+cd ..
+ls
+cd ~/
+templ 
+templ --lsp
+templ lsp --help
+templ lsp -help
+templ lps
+templ lsp
+templ lsp --help
+hx ~/.config/helix/languages.toml
+hx --health
+hx ~/.config/helix/languages.toml
+hx --health
+hx ~/.config/helix/languages.toml
+hx --help
+cargo xtask docgen
+cargo install xtask
+cd .cargo/bin/
+ls
+cargo add xtask
+cd ..
+ls
+cd git/
+ls
+cd db
+ls
+cd ..
+ls
+cd ..
+ls
+hx --health
+hx .config/helix/languages.toml
+hx --health
+ls
+cd templ_test/
+ls
+hx --health
+gopls
+cd templ_test/
+hx .config/helix/languages.toml
+ls
+cd templ_test/
+hx --health
+hx .config/helix/languages.toml
+hx ~/.config/helix/languages.toml
+hx --health
+which templ
+cd ~/.go/bin/
+ls
+cd bin/
+ls
+rm ~/bin
+cd ..
+sudo rm -rf ./bin/
+ls
+cd pkg/
+ls
+cd mod/
+ls
+cd go.lsp.dev/
+ls
+cd pkg@v0.0.0-20210717090340-384b27a52fb2/
+l
+ls
+cd ~/go
+~/.go/
+ls
+cd bin/
+l
+sls
+ls
+templ lsp
+hx hello.templ
+templ lsp --help
+hx ~/.config/helix/languages.toml
+hx --health
+hx --help
+hx -g
+hx -g fetch
+hx ~/.config/helix/languages.toml
+hx -g fetch
+hx .config/helix/languages.toml
+hx -g fetch
+hx -g build
+hx .config/helix/languages.toml
+hx -g build
+hx .config/helix/languages.toml
+hx -g fetch
+hx ~/.config/helix/languages.toml
+hx -g fetch
+hx -g build
+hx --health
+hx --help
+hx -c
+hx .config/helix/runtime/
+hx --health
+templ lsp --help
+templ lsp -log stdio
+ls
+hx stdio
+hx .config/helix/languages.toml
+hx --health
+gopls -h
+ls
+light -S 100
+ls
+laptop_mode 
+sudo laptop_mode 
+ls
+cd templ_test/
+hx templ_test/hello.templ
+cd templ_test/
+templ --help
+templ lsp --help
+templ lsp -http
+templ lsp -log stdio
+hx templ_test/hello.templ
+hx hello.templ
+hx --health
+:q
+gopls -h
+hx --health
+hx hello.templ
+templ lsp -http 8081
+hx .config/helix/languages.toml
+hx grammar fetch
+hx grammar -fetch
+hx -help
+hx -h
+hx -g fetch
+hx -g build
+hx ~/.config/helix/languages.toml
+hx --health
+iwctl 
+ls
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx ~/.config/hypr/hyprland.conf
+templ lsp -h
+templ lsp -loh stido
+templ lsp -loh stdio
+templ lsp -loh -stdio
+cd templ_test/
+hx templ_test/hello.templ
+templ lsp -log stdio
+hx hello.templ
+templ lsp -log templ_lsp
+ls
+hx templ_lsp
+hx templ_test/hello.templ
+hx templ_lsp
+rm templ_lsp
+ls
+rm stdio
+hx templ_test/hello.templ
+templ lsp --stdio
+templ lsp -log --stdio
+ls
+rm --stdio
+rm -f --stdio
+rm -i
+nautilus 
+templ 
+templ lsp
+hx .config/helix/languages.toml
+ls
+hx templ_test/hello.templ
+hx .config/helix/languages.toml
+hx templ_test/hello.templ
+templ lsp
+hx .config/helix/languages.toml
+hx templ_test/hello.templ
+hx .config/helix/languages.toml
+hx templ_test/hello.templ
+hx --health
+hx .config/helix/runtime/grammars/templ.so
+hx .config/helix/runtime/
+mkdir .config/helix/queries/
+cd .config/helix/queries/
+ls
+cp ../runtime/grammars/sources/templ/queries/ .
+cp ../runtime/grammars/sources/templ/queries/* .
+cp ../runtime/grammars/sources/templ/queries/templ/* .
+ls
+:w
+cd ~/
+hx templ_test/hello.templ
+hx .config/helix/languages.toml
+hx templ_test/hello.templ
+hx .config/helix/languages.toml
+hx templ_test/hello.templ
+ls
+cd templ_test/
+ls
+rm stdio
+hx go.mod
+cd hello-world<\n>go mod init github.com/a-h/templ-examples/hello-world
+<\n>go mod init github.com/a-h/templ-examples/hello-world
+hx templ_test/hello.templ
+hx hello.templ
+hx log
+hx hello.templ
+hx 
+hx
+hx .config/helix/languages.toml
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx --health
+hx hello.templ
+hx --health templ
+cd .config/helix/queries/
+ls
+mkdir templ
+mv *.scm templ/
+hx templ_test/hello.templ
+hx --health templ
+cd .config/helix/queries/templ/
+ls
+cd ..
+mv queries/ runtime/
+ls
+hx --health templ
+hx hello.templ
+hx templ_test/hello.templ
+templ lsp -http 8081
+ls
+cd ..
+ls
+hx --healt templ
+hx --health templ
+cd runtime/queries/templ/
+ls
+hx ~/.config/helix/languages.toml
+hx --health templ
+hx .config/helix/languages.toml
+hx --health templ
+hx templ_test/hello.templ
+hx 
+hx .config/helix/languages.toml
+hx templ_test/hello.templ
+hx .config/helix/languages.toml
+hx --health templ
+cd ~/templ_test/
+ls
+cd ~/
+rm templ_test/
+rm -rf templ_test/
+mkdir hello-world<\n>
+cd hello-world/
+cd hello-world<\n>go mod init github.com/a-h/templ-examples/hello-world
+ls
+go mod init github.com/a-h/templ-examples/hello-world
+touch hello.templ
+hx hello.templ
+hx .config/helix/languages.toml
+hx hello-world/hello.templ
+hx go.mod
+ls
+cd hello-world/
+ls
+hx go.mod
+templ migrate --help
+templ migrate 
+cd ..
+go install github.com/a-h/templ/cmd/templ@latest
+hx hello-world/hello.templ
+hx hello-world/hello.templ
+ls
+hx hello-world/hello.templ
+cd hello-world/
+templ generate
+ls
+hx hello_templ.go
+go mod -h
+go help mod
+go mod download
+go mod tidy
+hx hello_templ.go
+hx hello.templ
+hx --health templ
+hx
+hx 
+cd ~/.config/helix/runtime/grammars/
+ls
+hx templ.so
+cargo install tree-sitter-cli
+which tree-sitter
+hx .config/nushell/env.nu
+hx hello-world/hello.templ
+which tree-sitter
+hx hello-world/hello.templ
+ls
+which hx
+hx .config/nushell/env.nu
+hx
+hx .config/helix/config.toml
+hx --health
+hx hello-world/hello.templ
+cd .cargo/bin/
+ls
+rm hx
+cd ..
+which hx
+hx
+hx hello-world/hello.templ
+tree-sitter -h
+cd ..
+cd slworp/hello-world/
+tree-sitter test
+tree-sitter test hello.templ
+tree-sitter dump-languages
+tree-sitter init-config
+hx ~/.config/tree-sitter/config.json
+hx dump-anguages
+tree-sitter dump-languages
+hx ~/.config/tree-sitter/config.json
+tree-sitter dump-languages
+ls
+tree-sitter -h
+tree-sitter test hello.templ
+tree-sitter parse hello.templ
+tree-sitter generate hello.templ
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx -g fetch
+hx -g build
+hx ~/hello-world/hello.templ
+hx -g fetch
+hx -g build
+hx -g fetch
+hx -g build
+hx -g fetch
+hx -g build
+hx hello.templ
+hx --health
+hx --health templ
+cd ~/.go/bin/
+ls
+templ 
+tree-sitter 
+tree-sitter test ~/.config/helix/runtime/grammars/templ.so
+tree-sitter test --help
+tree-sitter test -d ~/.config/helix/runtime/grammars/templ.so
+tree-sitter test --debug
+tree-sitter test -O ~/.config/helix/runtime/grammars/templ.so
+cd pkg/
+ls
+cd mod/
+ls
+hx go.lsp.dev/
+cd ..
+hx sumdb/
+:q
+cd ..
+ls
+templ 
+templ lsp --help
+hx ~/.config/helix/languages.toml
+cd ..
+ls
+cd ..
+ls
+hx -g fetch
+hx -g build
+cd ~/hello-world/
+ls
+hx hello-world/hello.templ
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx hello.templ
+hx
+cd ~/.config/helix/runtime/grammars/
+ls
+gclear
+clear
+hx -g fetch
+hx -g build
+hx -g fetch
+hx -g build
+l
+ls
+hx hello.templ
+templ lsp --help
+hx hello.templ
+templ generate
+ls
+hx hello_templ.go
+ls
+touch main.go
+hx main.go
+curl localhost:3000
+sudo curl localhost:3000
+sudo npm i -g htmx-lsp
+ls
+cd .bun/
+ls
+cd bin/
+l
+ls
+cd ..
+bun --help
+bun install -h
+bun install -g htmx-lsp
+htmx-lsp 
+hx .config/helix/languages.toml
+hx hello-world/hello.templ
+ls
+cd hello-world/
+ls
+go run *.go
+:w
+hx ~/.config/helix/languages.toml
+hx hello-world/hello.templ
+hx ~/.config/helix/languages.toml
+hx hello-world/hello.templ
+cd hello-world/
+ls
+tailwindcss -h
+tailwindcss -i
+ls
+tailwindcss -init 
+tailwindcss inir
+tailwindcss init
+ls
+hx hello-world/hello.templ
+hx hello.templ
+hx tailwind.config.js
+touch input.css
+ls
+hx input.css
+hx tailwind.config.js
+ls
+mkdir tw
+mv input.css tw/
+hx hello.templ
+tailwindcss 
+tailwindcss -h
+tailwindcss init --full
+ls
+tailwindcss -i ./tw/input.css
+cd tw/
+;s
+ls
+cd ..
+ls
+cd src/
+ls
+cd ..
+cd src/tree_sitter/
+ls
+cd ..
+rm src/
+rm -rf src/
+ls
+cd tw/
+ls
+touch output.cs
+ls
+touch output.css
+rm output.cs
+cd ..
+hx hello.templ
+ls
+cd hello-world/
+hx .config/helix/languages.toml
+hx hello.templ
+touch hello.html
+hx hello.html
+hx .config/helix/languages.toml
+hx hello.html
+hx hello.templ
+ls
+cd hello-world/
+ls
+tailwindcss -i ./tw/input.css -o ./tw/output.css --watch
+hx hello.html
+hx ~/.config/helix/languages.toml
+hx .config/helix/config.toml
+hx hello.html
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx hello-world/hello.templ
+ls
+hx ~/.config/helix/languages.toml
+hx hello-world/hello.templ
+hx ~/.config/helix/languages.toml
+cd hello-world/
+ls
+hx hello.html
+ls
+rm tw/
+rm -rf tw/
+rm tailwind.config.js
+rm hello.html
+ls
+hx ~/.config/helix/languages.toml
+hx hello.templ
+cd /usr/local/share/
+ls
+cd ..
+ls
+cd ~/.local/share/Trash/
+ls
+cd files/
+ls
+hx tailwind.config.js
+mv tailwind.config.js ~/hello-world/
+cd ~/hello-world/
+ls
+mkdir tw
+cd tw
+touch output.css
+touch input.css
+cd ..
+ls
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx tw/input.css
+cd tw
+hx input.css
+cd ..
+ls
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx tw/input.css
+hx hello.templ
+ls
+hx tailwind.config.js
+hx ~/.config/helix/languages.toml
+hx tailwind.config.js
+hx hello.templ
+hx --health
+hx --health html
+hx ~/.config/helix/languages.toml
+hx hello.templ
+templ fmt hello.templ
+hx hello.templ
+tailwindcss -i ./tw/input.css -o ./tw/output.css --watch
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx --health
+ls
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx --health templ
+hx ~/.config/helix/languages.toml
+ls
+hx hello.templ
+tailwindcss -i ./tw/input.css -o ./tw/output.css --watch
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx tailwind.config.js
+hx hello.templ
+hx tw/output.css
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx hello.templ
+tailwindcss -h
+hx hello.templ
+touch test.html
+hx test.html
+hx tailwind.config.js
+hx tw/input.css
+cd ..
+cd hello-world/
+tailwindcss -i ./tw/input.css -o ./tw/output.css --watch
+hx test.html
+tailwindcss -i ./tw/input.css -o ./tw/output.css --watch
+hx ~/.config/helix/languages.toml
+hx test.html
+hx tailwind.config.js
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx hello.templ
+hx ~/.config/helix/languages.toml
+hx hello.templ
+ls
+mv test.html tw/
+ls
+cd tw/
+hx test.html
+mv test.html ..
+cd ..
+ls
+hx test.html
+hx tailwind.config.js
+hx hello_templ.go
+mksie gomponents
+mkdir gomponents
+cd gomponents/
+ls
+git clone https://github.com/maragudk/gomponents-tailwind-example/tree/main
+ls
+git clone https://github.com/maragudk/gomponents-tailwind-example/
+ls
+cd gomponents-tailwind-example/
+make start
+hx views/layout.go
+hx views/home.go
+light -S 1
+hx .config/helix/config.toml
+ls
+rm LocalAI/
+rm -rf LocalAI/
+sudo rm -rf LocalAI/
+rm hello-world/
+rm -rf hello-world/
+clear
+ls
+cbonsai 
+neofetch
+neofetch --help
+neofetch --size 10%
+neofetch --size 1%
+cbonsai 
+clear
+neofetch --size 1%
+neofetch
+clear
+neofetch
+date now
+clear
+git clone https://github.com/elkowar/eww<\n>
+ls
+cd eww
+ls
+cargo build --release --no-default-features --features x11
+ls
+cd ..
+ls
+cd eww/
+ls
+cd target/
+ls
+cd release/
+ls
+chmod +x ./eww
+./eww
+mkdir ~/.config/eww
+cd eww
+ls
+cd ~/.config/eww/
+eww
+ls
+git clone https://github.com/saimoomedits/eww-widgets/tree/main/eww/leftbar
+git clone https://github.com/saimoomedits/eww-widgets/tree/main
+https://github.com/saimoomedits/eww-widgets.git
+git clone https://github.com/saimoomedits/eww-widgets.git
+ls
+cd eww-widgets/
+ls
+cd eww/
+ls
+cp leftbar ../..
+cp leftbar ..
+cp -r leftbar/ ..
+cd ..
+ls
+cp leftbar/ ..
+cp -r leftbar/ ..
+ls
+cd ..
+ls
+cp -r leftbar/ .
+ls
+cd leftbar/
+mv * //
+mv -r * //
+ls
+eww launch_left
+ls
+mv * ..
+ls
+cd ..
+ls
+rm -rf leftbar/
+hx launch_left
+ls
+eww
+eww daemon
+eww open launch_left
+ls
+hx launch_left
+chmod +x launch_left
+./launch_left
+cd scripts/
+ls
+cd Downloads/
+ls
+chromium --ozone-platform-hint=auto & detach
+paru -Sy virtualbox
+virtualboxvm 
+virtualbox 
+sudo virtualbox 
+# for module in `ls /lib/modules/$(uname -r)/kernel/misc/{vboxdrv.ko,vboxnetadp.ko,vboxnetflt.ko}` ; do ./scripts/sign-file sha1 certs/signing_key.pem certs/signing_key.x509 $module ; done
+hx
+modprobe vboxdrv
+sudo modprobe vboxdrv
+sudo nautilus 
+ls
+ls -all
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd bin/
+ls
+cd ..
+ls
+cd ..
+ls
+findmnt
+findmnt /dev/mmcblk0
+umount /dev/mmcblk0
+sudo umount /dev/mmcblk0
+fstab
+sudo hx /etc/fstab
+findmnt /dev/mmcblk0
+sudo umount /dev/mmcblk0
+findmnt
+findmnt /dev/mmcblk0
+lsblk 
+lsblk -f
+hx /boot/initramfs-linux-g14.img
+journalctl 
+journalctl -h
+journalctl -S 01/10/23
+journalctl -S 
+journalctl --since "20 min ago"
+sudo hx /etc/udev/rules.d/
+sudo hx /etc/udev/udev.conf
+hx /etc/udisks2/udisks2.conf
+udisksctl 
+udisksctl info
+udisksctl mount
+hx ~/.bashrc
+hx /etc/systemd/system.conf
+systemd-mount --list
+hx /usr/bin/mount
+hx /etc/fstab
+sudo hx /etc/fstab
+ls
+rm `VirtualBox VMs/`
+rm -rf `VirtualBox VMs/`
+rm -rf eww/
+ls
+lsblk 
+mount mmcblk0 /mnt
+sudo mount mmcblk0 /mnt
+findmnt
+lsblk -f
+sudo mount /mmcblk0 /mnt
+sudo mount /dev/mmcblk0 /mnt
+lsblk -f
+mount
+findmnt
+paru -Sy ventoy
+ventoy
+ls
+cd Downloads/
+ls
+gzip --help
+gzip -d chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip
+ls
+cd Documents/ls
+cd Documents/
+ls
+cd ~/Downloads/
+ls
+gzip chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip
+gzip -d chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip.gz
+ls
+zipgrep 
+unzip chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip.gz
+unzip chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip
+ls
+gzip -d chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip.gz
+ls
+unzip chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin.zip
+lsblk -f
+ls
+mv chromeos_15393.58.0_reven_recovery_stable-channel_mp-v2.bin image.bin
+ls
+sudo dd if=image.bin of /dev/mmcblk0 bs=4m status=progress
+which dd
+cd /dev/disk/by-id/
+ls
+./mmc-SD128_0x3b614172
+sudo ./mmc-SD128_0x3b614172
+cd ..
+ls
+cd by-path/
+ls
+cd ..
+ls
+cd by-path/
+ls
+cd ..
+cd by-partlabel/
+ls
+cd ..
+ls
+cd /mnt/
+ls
+cd ~/Downloads/
+sudo dd if=image.bin of /dev/mmcblk0 bs=4m status=progress
+sudo dd if=image.bin of=/dev/mmcblk0 bs=4m status=progress
+sudo dd if=image.bin of=/dev/mmcblk0 bs=4M status=progress
+cd /mnt/
+ls
+ls -l /dev/disk/
+ls -l /dev/disk/by-id/
+cd Downloads/
+l
+ls
+ls -l /dev/disk/by-uuid/
+ls -l /dev/disk/by-partlabel/
+ls -l /dev/disk/by-partuuid/
+ls -l /dev/disk/by-id/
+lsblk -f
+lsblk 
+sudo umount /dev/mmcblk0
+sudo dd if=image.bin of=/dev/disk/by-id/mmc-SD128_0x3b614172 bs=4M conv=fsync oflag=direct status=progress
+sudo umount mmcblk0
+sudo umount /mnt/mmcblk0
+sudo umount mmcblk0
+lsblk
+cd Downloads/
+<\n>sudo dd if=image_name.bin of=/dev/sda1 bs=4M status=progress
+<\n>sudo dd if=image.bin of=/dev/sda1 bs=4M status=progress
+lsblk
+lsblk 
+ls
+cd Downloads/
+ls
+mv Win11_22H2_English_x64v2.iso image.iso
+lsblk 
+ls -l /dev/disk/by-id/
+ls -l /dev/disk/by-id/ | hx
+ls -l /dev/disk/by-id/usb-SanDisk_Cruzer_Snap_03007407052421074821-0:0
+lsblk -l
+dd bs=4M if=image.iso of=/dev/disk/by-id/usb-SanDisk_Cruzer_Snap_03007407052421074821-0:0 conv=fsync oflag=direct status=progress
+sudo dd bs=4M if=image.iso of=/dev/disk/by-id/usb-SanDisk_Cruzer_Snap_03007407052421074821-0:0 conv=fsync oflag=direct status=progress
+virtualbox 
+paru -Sy firefox
+chromium --ozone-platform-hint=auto & detach
+paru -Sy thorium-browser-bin
+thorium-browser 
+thorium-browser --ozone-platform-hint=auto
+thorium-browser --ozone-platform-hint=auto --force-device-scale-factor=1.0
+thorium-browser --ozone-platform-hint=auto
+thorium-browser --ozone-platform-hint=auto --content-shell-hide-toolbar
+thorium-browser --ozone-platform-hint=auto --content-shell-hide-toolbar --force-app-mode
+thorium-browser --ozone-platform-hint=auto --content-shell-hide-toolbar --hide-scrollbars
+thorium-browser --ozone-platform-hint=auto --content-shell-hide-tool-bar
+thorium-browser --ozone-platform-hint=auto
+thorium-browser --ozone-platform-hint=auto --content-shell-hide-tool-bar
+thorium-browser --ozone-platform-hint=auto
+thorium-browser
+sudo thorium-browser 
+sudo thorium-browser --no-sandbox
+thorium-browser --ozone-platform-hint=auto
+sudo thorium-browser --ozone-platform-hint=auto --no-sandbox
+sudo thorium-browser --ozone-platform-hint=auto
+thorium-browser --ozone-platform-hint=auto
+hx `.config/thorium/Crash Reports/settings.dat`
+optirun thorium-browser --disable-gpu-sandbox --ozone-platform-hint=auto
+thorium-browser --disable-gpu-sandbox --ozone-platform-hint=auto
+hx .config/thorium/
+hx `.config/thorium/Local State`
+thorium-browser --disable-gpu-sandbox --ozone-platform-hint=auto
+cd Documents/
+cd ..
+ls | where type = dir
+ls | where type == dir
+rm -rf `VirtualBox VMs/`
+rm -rf LocalAI/
+sudo rm -rf LocalAI/
+paru -R docker
+paru -R docker-compose
+light -S 1
+hx /etc/sddm.conf.d/autologin.conf
+systemctl -h
+systemctl restart NetworkManager
+networkctl 
+networkctl -h
+networkctl reload
+sudo networkctl reload
+ls
+cd Documents/\
+cd Downloads/
+ls
+`'Booking_Print_AJWB7MA.pdf`
+go --help
+go env
+sudo pacman -S mesa libxrandr libxcursor libxinerama libxi pkg-config<\n>
+go run github.com/hajimehoshi/ebiten/v2/examples/rotate@latest<\n>
+ls
+mkdir Projects
+cd Projects/
+mkdir SavageLands
+rm SavageLands/
+ls
+cd Projects/
+ls
+mkdir Haze
+cd Haze
+go mod init github.com/yourname/yourgame<\n>
+ls
+rm go.mod
+go mod init github.com/saalico/haze
+touch main.go
+hx main.go
+go mod tidy
+hx main.go
+go run main.go
+ls
+hx main.go
+go run .
+ls
+hx main.go
+go run .
+mv `Downloads/Sprout Lands - Sprites - Basic pack.zip` ~/Projects/Haze/
+cd Projects/Haze/
+ls
+mkdir assets
+mv `Sprout Lands - Sprites - Basic pack.zip` assets/
+ls
+cd assets/
+unzip `Sprout Lands - Sprites - Basic pack.zip`
+ls
+mv `Sprout Lands - Sprites - Basic pack/` SproutLands/
+ls
+rm `Sprout Lands - Sprites - Basic pack.zip`
+mv SproutLands/ base/
+cd base/
+ls
+hx read_me.txt
+rm read_me.txt
+cd Characters/
+ls
+`Basic Charakter Spritesheet.png`
+feh `Basic Charakter Spritesheet.png`
+iwctl 
+ls
+hx Projects/Haze/
+chromium 
+iwctl 
+systemctl restart NetworkManager
+systemctl NetworkManager.service restart 
+systemctl -h
+systemctl restart NetworkManager.service
+systemctl list-units
+systemctl restart net-wlan0.device
+iwctl 
+ip 
+iwctl 
+light -S 100
+iwctl 
+ls
+cd Projects/Haze/assets/base/Characters/
+ls
+`Basic Charakter Actions.png`
+feh `Basic Charakter Spritesheet.png`
+feh Tools.png
+ls
+feh Egg_And_Nest.png
+feh `Basic Charakter Actions.png`
+feh Tools.png
+cd Projects/Haze/
+cd Projects/Haze/assets/base/Characters/
+ls
+mv `Basic Charakter Actions.png` BasicCharacterActions.png
+mv `Basic Charakter Spritesheet.png` BasicCharacterSpritesheets.png
+mv BasicCharacterSpritesheet.png
+mv BasicCharacterSpritesheets.png BasicCharacterSpritesheet.png
+ls
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+iwctl 
+ls
+hx main.go
+go mod tidy
+cd Projects/Haze/
+ls
+hx main.go
+go mod tidy
+hx main.go
+go mod tidy
+cd Projects/Haze/assets/base/Characters/
+ls
+hx main.go
+go mod tidy
+hx main.go
+ls
+cd Projects/Haze/
+ls
+cd assets/
+ls
+mv base/* .
+ls
+rm base/
+mv */* .
+ls
+ls | where type == dir | rmdir 
+ls
+rm | where type == dir  
+rmdir
+rmdir --help
+rmdir *
+ls
+tr -s ' ' '_' <<< "$a"
+ls
+feh *
+ls | rename -b {str replace -a ' ' ''}
+ls
+rename -b {str replace -a ' ' ''}
+ls
+rename --help
+ls
+mv `Basic Furniture.png` BasicFunrniture.png
+mv `Basic Grass Biom things 1.png` BasicGrassBiomThings1.png
+mv `Basic Plants.png` `BasicPlants.png`
+mv `Basic tools and meterials.png` BasicToolsAndMaterials.png
+ls
+touch closespaces.sh
+hx closespaces.sh
+cd Projects/Haze/assets/
+ls
+mv ~/closespaces.sh .
+chmod +x closespaces.sh
+./closespaces.sh
+hx closespaces.sh
+./closespaces.sh
+hx closespaces.sh
+chmod +x closespaces.sh
+./closespaces.sh
+chmod +x closespaces.sh
+./closespaces.sh
+hx closespaces.sh
+chmod +x closespaces.sh
+./closespaces.sh
+hx closespaces.sh
+la
+ls
+mv SproutsLandssdefautltspalette.aseprite 
+rm SproutsLandssdefautltspalette.aseprite
+rm SproutsLandssdefautltspalette.png
+rm SproutsLandssdefautltspalettessnip.PNG
+mv FreesChickensHouse.png FreeChickenHouse.png
+ls
+mv SimplesMilksandsgrasssitem.png SimpleMilkAndGrassItem.png
+ls
+mv TilledsDirt.png TilledDirt.png
+mv EggsAndsNest.png EggsAndNest.png
+ls
+mv FreesChickensSprites.png FreeChickenSprites.png
+mv FreesCowsSprites.png FreesCowSprites.png
+ls
+mv WoodensHouse.png WoodenHouse.png
+mv WoodsBridge.png WoodBridge.png
+ls
+rm closespaces.sh
+cd ..
+ls
+hx main.go
+cd assets/
+ls
+cd ..
+hx main.go
+cd ..
+touch embed.go
+ls
+cd Projects/Haze/assets/
+ls
+ls | where name =~ ".png"
+hx| ls | where name =~ ".png"
+ls | where name =~ ".png" |> hx
+ls | where name =~ ".png" | hx
+ls -s | where name =~ ".png" | hx
+ls -s | where name =~ ".png" 
+ls -s name | where name =~ ".png" 
+ls -s | select name | where name =~ ".png" 
+ls | select name | where name =~ ".png" 
+ls | select name | where name =~ ".png" | hx
+ls | get name | where name =~ ".png" | hx
+ls | get name | where name =~ ".png" 
+ls | select name | where name =~ ".png" 
+ls
+ls -a
+hx .
+ls | select name | where name =~ ".png" | hx
+ls
+clear
+ls
+mv BasicCharacterActions.png
+ls
+cd Projects/Haze/assets/
+ls
+hx embed.go
+hx embed.go
+hx go.mod
+go mod tidy
+hx go.mod
+hx main.go
+go mod tidy
+hx main.go
+ls
+hx embed.go
+rm embed.go
+cd assets/
+ls
+hx embed.go
+cd ..
+hx main.go
+hx assets/embed.go
+hx main.go
+go mod tidy
+hx go.mod
+hx main.go
+hx go.mod
+go mod tidy
+hx main.go
+go mod tidy
+hx main.go
+ls
+git init
+git branch -m main
+git remote add origin https://github.com/Saalico/haze.git
+git ignore go.sum
+hx go.sum
+ls
+hx go.mod
+go mod tidy
+hx go.mod
+go mod edit -replace src/assets=../assets
+hx go.mod
+hx main.go
+go mod tidy
+hx main.go
+hx go.mod
+go mod tidy
+hx go.mod
+hx main.go
+hx go.mod
+go mod tidy
+cd assets/
+ls
+cd ..
+ls
+hx go.mod
+hx main.go
+hx go.mod
+go mod tidy
+hx assets/embed.go
+go mod init images
+go mod init
+cd ..
+ls
+cd Haze/
+cd assets/
+go mod init
+go mod init src/assets
+go mod tidy
+ls
+hx go.mod
+cd ..
+go mod tidy
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+cd Projects/Haze/
+go run .
+hx main.go
+go run .
+cd Projects/Haze/assets/
+ls
+feh BasicCharacterSpritesheet.png
+feh BasicCharacterActions.png
+feh BasicCharacterSpritesheet.png
+go run .
+hx main.go
+go run .
+feh BasicCharacterSpritesheet.png
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+clear
+cd Projects/Haze/
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run github.com/hajimehoshi/ebiten/v2/examples/animation@latest<\n>
+go run github.com/hajimehoshi/ebiten/v2/examples/animation@latest
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+hx ~/.config/helix/config.toml
+ls
+hx main.go
+ls
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+cd Projects/Haze/
+ls
+hx main.go
+ls
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+clear
+hx main.go
+cd Projects/Haze/
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+ls
+cd Projects/Haze/
+cd Projects/Haze/
+hx main.go
+go run .
+clear
+cd Projects/Haze/
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+ls
+cd Projects/Haze/
+ls
+cd Projects/Haze/assets/
+ls
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go run .
+hx main.go
+go install github.com/cosmtrek/air@latest
+ls
+air init
+ls
+ls -a
+hx .air.toml
+cd Projects/Haze/
+air
+pueue -h
+pueue reset
+pueue start air
+pueue air
+pueue -- air
+pueue start -- air
+pueue --help
+pueue add air
+cd Projects/Haze/
+ls
+air
+pueue start -- air
+pueue start
+hx main.go
+hyprctl clients
+firefo
+firefox
+thorium-browser -hel
+thorium-browser -help
+thorium-browser --disable-gpu-sandbox --ozone-platform-hint=auto --kiosk
+thorium-browser --disable-gpu-sandbox --ozone-platform-hint=auto --enable-consumer-kiosk
+thorium-browser --disable-gpu-sandbox --ozone-platform-hint=auto --start-fullscreen
+thorium-browser --disable-gpu-sandbox --ozone-platform-hint=auto --suppress-message-center-popups
+thorium-browser --ozone-platform-hint=auto --suppress-message-center-popups
+thorium-browser --ozone-platform-hint=auto --app
+thorium-browser --ozone-platform-hint=auto --suppress-message-center-popups
+ls
+hyprctl clients
+thorium-browser 
+pulsemixer 
+ls
+btop
+btop --utf-force
+hx ~/.config/hypr/hyprland.conf
+clear
+hyprctl
+hyprctl instances
+hyprctl instances 0
+kill
+client
+clients
+sudo btop
+ls
+thorium-browser 
+ls
+cd Projects/Haze/
+ls
+ranger
+ls
+hx main.go
+go run .
+hx main.go
+go run .
+cd Projects/Haze/
+go run .
+cd Projects/Haze/
+go run .
+cd Projects/Haze/
+ls
+cd Projects/Haze/
+go run .
+hx ~/.config/hypr/hyprland.conf
+ls
+clock
+tty-clock
+time
+clear
+zoxide 
+clear
+ls
+pulsemixer 
+claer
+clear
+hx Projects/Haze/
+cd Projects/Haze/
+go run .
+hx Projects/Haze/main.go
+go run .
+cd Projects/Haze/assets/
+ls
+BasicCharacterActions.png
+feh BasicCharacterActions.png
+go run .
+light -S 100
+cd Projects/Haze/
+ls
+hx main.go
+go run .
+cd Projects/Haze/
+go run .
+journalctl --since "20 min ago"
+go run .
+jjjjjjjjjj
+go run .
+go install github.com/aldernero/glitch-clock@latest
+glitch-clock 
+glitch-clock -local-time
+hyprctl clients
+paru -Sy wlclock
+paru -R wlclock
+glitch-clock -h
+hyprctl clients
+hyprctl dispatch -- exec kitty --single-instance<\n>
+hyprctl dispatch exec [workspace special silent] wezterm start pulsemixer
+hyprctl dispatch exec [workspace special] wezterm start pulsemixer
+hyprctl dispatch exec [workspace +1] wezterm start pulsemixer
+quit
+logout
+exit
+sddm -h
+logout
+wezterm start btop
+ls
+zellij -h
+zellij
+clear
+cd Projects/Haze/assets/
+ls
+feh -h
+ls
+feh *
+clear
+cd ~/
+firefox
+light -S 10
+neofetch
+bluemoon 
+sudo bluemoon 
+blueman-services 
+sudo blueman-manager 
+paru -Sy bluetuith
+go install https://darkhz.github.io/bluetuith/@latest
+go install https://darkhz.github.io/bluetuith/
+go install https://github.com/darkhz/bluetuith
+go install github.com/darkhz/bluetuith
+go install github.com/darkhz/bluetuith@latest
+cd ~/Projects/Haze/
+go run .
+hx Projects/Haze/main.go
+hx tutor
+cd Projects/Haze/
+go run .
+cd Projects/Haze/
+go run .
+sjkk
+go run .\
+go run .
+hx ~/Projects/Haze/main.go
+go run .
+hx ~/Projects/Haze/main.go
+go run .
+cd Projects/Haze/
+go run .
+clear
+go run .
+ssssssssssss
+go run .
+kill
+go run .
+ssssssssssss
+go run .
+clear
+go run .
+clear
+go run .
+clear
+go run .
+iclear
+clear
+go run .
+clear
+go run .
+sjkk
+clear
+go run .
+clar
+clear
+go run .
+cd Projects/Haze/
+go run .
+hx ~/Projects/Haze/main.go
+go run .
+ls
+cd Projects/Haze/
+ls
+cd Projects/Haze/
+go run .
+iwctl 
+clear
+go run .
+iwctl 
+cd Projects/Haze/
+go run .
+which dd
+go run .
+clear
+go run .
+clear
+go run .
+clear
+go run .
+clear
+go run .
+clear
+go run .
+cd Projects/Haze/
+ls
+cd Projects/Haze/
+go run .
+clear
+go run .
+clear
+go run .
+kjclear
+clear
+kjclear
+clear
+go run .
+cd Projects/Haze/
+cd Projects/Haze/
+go run .
+cd Projects/Haze/
+cd assets/
+ls
+feh *
+cd ..
+go run .
+cd Projects/Haze/
+go run .
+cd Projects/Haze/assets/
+go run .
+jjjjjjjjjj
+go run .
+clear
+go run .
+dd bs=4M if=image.iso of=/dev/disk/by-id/usb-SanDisk_Cruzer_Snap_03007407052421074821-0:0 conv=fsync oflag=direct status=progress
+go run .
+neofetch 
+curl https://ollama.ai/install.sh | sh
+e
+go install github.com/nore-dev/fman@latest
+go install github.com/mistakenelf/fm@latest<\n>
+fm
+cd ~/.config/fm/
+hx config.yml
+echo $env.EDITOR
+echo $EDITOR
+nu config
+config nu
+hx ~/.config/nushell/config.nu
+config nu
+hx ~/.config/nushell/env.nu
+config nu
+nu.config-path
+$nu.config-path
+$config.buffer_editor
+$env.config.buffer_editor
+$env.EDITOR
+$env.VISUAL
+$env.VISUAL = hx
+$env.VISUAL
+paru -Sy nerdfont
+fman 
+nu
+go get -u github.com/TeddyDD/binclock
+go instal github.com/TeddyDD/binclock
+go install github.com/TeddyDD/binclock
+go install github.com/TeddyDD/binclock@latest
+go install go.teddydd.me/binclock/v6@latest<\n>
+paru -Sy peaclock
+date
+date now
+golang time
+ollama serve 
+ollame run minstral
+ollama run minstral
+ollama run mistral
+astronvim
+paru -Q font
+cd Downloads/
+ls
+mv Monocraft.ttf ~/.local/share/fonts
+fc-cache -fv
+hx wezterm.lua
+hx ~/.config/wezterm/wezterm.lua
+wezterm ls-fonts
+wezterm ls-fonts --list-system
+fc-cache -h
+fc-cache -V
+fc-cache -v
+fc-cache -fv
+fc-cache -Fv
+fc-cache -rv
+mkdir ~/.local/share/fonts
+cd ~/.local/share/
+ls
+hx fonts
+mv fonts Monocraft.ttf
+mkdir fonts
+mv Monocraft.ttf ~/.local/share/fonts
+fc-cache -rv
+ls
+hx ~/.config/wezterm/wezterm.lua
+hx ~/.config/helix/config.toml
+hx Projects/Haze/main.go
+cd Media/Wallpaper/
+ls
+cd current/
+ls
+mv background.jpg ../other/
+mv `9wz5a20wa1aa1.png` background.png
+ls
+hyprctl --help
+hyprctl reload
+hyprpaper background.png
+cd Media/Wallpaper/other/
+ls
+cd ../current/
+ls
+mv background.png background.jpg
+hyprctl reload
+hyprpaper background.png
+hyprpaper background.jpg
+cd Media/Wallpaper/current/
+ls
+feh background.jpg
+hx ~/.config/hypr/hyprpaper.conf
+hyprpaper
+cd Media/Wallpaper/current/
+ls
+paru -Sy imagemagick
+cd Media/Wallpaper/current/
+ls
+mv background.jpg background.png
+convert background.png background.jpg
+hyprctl reload
+git download https://github.com/EliverLara/Nordic
+git pull https://github.com/EliverLara/Nordic
+git -h
+clear
+git clone https://github.com/EliverLara/Nordic
+ls
+cd Nordic/
+ls
+cd /usr/share/themes/
+ls
+mv ~/Nordic/ .
+sudo mv ~/Nordic/ .
+ls
+gnome-tweaks 
+thunar
+hyprctl clients
+hx ~/.config/nautilus/
+cd ~/.config/nautilus/
+ls
+lf
+paru -Sy lf
+clear
+go install github.com/doronbehar/pistol/cmd/pistol@latest
+lf
+lf -h
+mkdir ~/.config/lf
+cd ~/.config/lf/
+ls
+hx lfrc
+go get github.com/h2non/filetype
+go install github.com/h2non/filetype@latest
+fm
+hx ~/.config/fm/config.yml
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim<\n>nvim
+nvim
+paru -Sy nvim
+paru -Sy neovim
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim<\n>nvim
+cd ~/.config/nvim/
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim<\n>nvim
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone -f --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+cd ..
+ls
+rm nvim/
+rm -f nvim/
+rm -rf nvim/
+git clone -f --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone -f --depth 1 https://github.com/AstroNvim/AstroNvim
+sudo git clone -f --depth 1 https://github.com/AstroNvim/AstroNvim
+sudo git clone -f --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+clear
+sudo git clone -f --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+nvim
+nvim ~/.config/nvim/
+nvim ~/.config/nvim/config.ld
+nvim ~/.config/nvim/lua/astronvim/options.lua
+:q
+cd ~/Downloads/
+ls
+uzip lotion-dist-master.zip
+zip lotion-dist-master.zip
+ls
+unzip lotion-dist-master.zip
+ls
+cd lotion-dist-master/
+ls
+cd ttf/
+ls
+mv *.ttf ~/.local/share/fonts/
+hx ~/.config/hypr/hyprland.conf
+hx ~/.config/wezterm/wezterm.lua
+hx ~/.config/hypr/hyprland.conf
+fc-cache -rv
+hx ~/.config/starship.toml
+clear
+nvim -h
+vimtutor 
+ls
+git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+rm -rf ~/.config/nvim/
+ls
+git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
+git clone https://github.com/Saalico/AstroNvim ~/.config/nvim/lua/user
+ls
+nvim --headless -c 'quitall'
+nvim ~/.config/nvim/lua/user/plugins/
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/config.ld
+nvim ~/.config/nvim/lua/user/plugins/
+ls
+hx
+hx ~/
+paru -R astronvim
+paru -R nvim
+paru -R neovim
+paru -C
+paru -h
+paru -c
+paru -Sy nerdfont-complete
+nvim
+cargo install llmvm-codeassist
+paru -Sy elvish
+paru -Sy elvish-git
+lxappearance 
+clear
+lxappearance 
+hyprctl reload
+cd ~/.local/share/icons/
+ls
+/usr/share/icons/
+ls
+cd default/
+ls
+hx index.theme
+sudo hx index.theme
+hx index.theme
+cd ..
+ls
+hx ~/.config/hypr/hyprland/
+brave
+paru -Sy brave
+brave
+npm -g discord-ai-bot
+npm install -g discord-ai-bot
+ollama serve mistral
+ollama serve
+ls
+rm Nordzy-cursors/
+rm -rf Nordzy-cursors/
+ls
+npm install -g discord-ai-bot
+ollama serve
+ollama serve -h
+ollama -h
+ollame show
+ollama show
+ollama show mistral
+ollama serve 8081
+ollama serve
+ollama -g
+ollama -h
+ollama -l
+ollama list
+paru -Sy https://github.com/mekb-turtle/discord-ai-bot
+paru -Sy github.com/mekb-turtle/discord-ai-bot
+git clone https://github.com/mekb-turtle/discord-ai-bot
+ls
+cd discord-ai-bot/
+ls
+cd src/
+ls
+cd ..
+ls
+ls -a
+mv .env.example .env
+hx .env
+npm start
+npm build
+npm -h
+npm install
+npm start
+hx .env
+npm start
+hx .env
+npm start
+hx .env
+npm start
+ollama list
+hx .env
+npm start
+npm install -g
+hx /etc/sddm.conf.d/
+ls
+cd /etc/sddm.conf.d/
+ls
+sudo hx /etc/sddm.conf.d/default.conf
+cd /usr/share/sddm/themes/
+ls
+cd ~/
+git clone https://github.com/nautilor/nord-sddm/tree/master
+ls
+cd /usr/share/sddm/themes/
+ls
+hx sddm-rose-pine/background.jpg
+cd sddm-rose-pine/
+ls
+cp ~/Media/Wallpaper/current/background.jpg background.jpg
+cd /usr/share/sddm/themes/
+ls
+cd sddm-rose-pine/
+ls
+hx theme.conf
+cd /usr/share/sddm/themes/
+ls
+cd sddm-rose-pine/
+ls
+date
+date now
+brave
+paru -Sy brave
+pacman -Sy brave
+sudo pacman -Sy brave
+sudo pacman -Sy brave-browser
+paru -Sy brave-bin
+brave
+brave -h
+brave --ozone-platform-hint=auto<\n>
+cd ~/.icons/default/
+ls
+hx index.theme
+gtk-launch 
+gtk-launch --help
+hx ~/.xinitrc
+xsetroot
+hx ~/.local/share/icons/
+cd ~/.local/share/icons/
+ls
+ls -a
+cd hicolor/
+ls
+hx ~/.config/gtk-3.0/settings.ini
+ls
+cd ~/.local/share/
+ls
+gnome-tweaks 
+hx ~/.config/hypr/hyprland.conf
+lxappearance 
+gnome-tweaks 
+hx ~/.local/share/icons/
+cd ~/.local/share/icons/
+;s
+ls
+ls -a
+gsettings 
+gsettings list-schemas
+gsettings get 
+gsettings get io.github.realmazharhussain.GdmSettings.appearance
+gdm-settings 
+sudo gdm-settings 
+gdm-settings 
+sudo gdm-settings 
+gdm-settings 
+hx ~/.config/hypr/hyprland.conf\
+hyprctl setcursor Nordzy-cursors-white 32
+hyprctl setcursor Nordzy-cursors-white 48
+paru -R brave-bin
+paru -C
+paru -h
+paru -c
+ls
+lxappearance 
+hx .local/share/gnome-settings-daemon/
+hx /usr/share/gtk-4.0/
+hx /usr/share/gtk-3.0/
+gtk-config 
+gtk-config --libs gtk
+gtk-query-settings 
+xsettingsd 
+hx ~/.xsettingsd
+xsettingsd 
+gnome-tweaks 
+hx /etc/gtk-3.0/settings.ini
+hx ~/.gtkrc-2.0
+echo $XDG_CONFIG_HOE
+echo $XDG_CONFIG_HOME
+gsettings set org.gnome.desktop.interface gtk-cursor-size 12
+gsettings set org.gnome.desktop.interface cursor-size 12
+hx ~/.config/hypr/hyprland.conf
+cd Projects/Haze/
+cd Projects/
+cd ~/Projects/
+ls
+hx ~/.config/hypr/hyprland.conf
+ls
+hx ~/.config/hypr/hyprland.conf
+hx ~/.config/Signal/
+\
+ls
+clear
+ls
+clear
+asda
+clear
+\
+ls
+wezterm start btop
+cd ~/Projects/
+cd ~/Projects/Haze/
+hx ~/.config/starship.toml
+hx ~/.config/hypr/
+hx ~/.config/hypr/hyprland.conf
+hx ~/.config/wezterm/rose_pine/
+cd ~/Projects/Haze/
+hx main.go
+clear
+ls
+cd ~/Projects/Haze/
+ls
+git add -A
+git commit -A
+git commit -a
+cd ..
+hx ~/.gitconfig
+ls
+cd Haze/
+git commit -a
+cd
+cd ~/Projects/Haze/
+ls
+cd tmp/
+ls
+cd ..
+rm tmp/
+rm -rf tmp/
+git ignore assets/
+ls -a
+cd .git/
+ls
+:q
+cd ..
+touch .gitignore
+git rm --cached assets/
+hx .gitignore
+git commit -a
+git add -A
+git commit -a
+hx .gitignore
+git commit -a
+git rm --cached assets/*
+git add -A
+git commit -a
+rm .air.toml
+ls
+git add -A
+git commit -a
+git push
+git push --set-upstream origin master
+cd ..
+ls
+mv Haze/ OutThere
+cd OutThere/
+ls
+git push --set-upstream origin master
+hx .git/HEAD
+hx .git/config
+git push --set-upstream origin master
+git init -b main<\n>
+gh repo create
+git init
+git -g
+git remote
+git push
+git push --set-upstream origin master
+ls
+mkdir ./FarOut
+mv * ./FarOut/
+cd ..
+ls
+cd OutThere/
+ls
+cd FarOut/
+ls
+cd ..
+mv FarOut/ ..
+ls
+cd ..
+ls
+rm OutThere/
+cd FarOut/
+ls
+rm .git/
+rm -rf .git/
+ls
+ls -a
+hx .gitignore
+gh repo create
+ls
+cd FarOut/
+ls
+cd ..
+mv * FarOut/
+ls
+cd FarOut/
+ls
+mv * ..
+ls
+cd ..
+ls
+mv * FarOut/
+mv FarOut/ ~/
+cd ..
+ls
+cd FarOut/
+ls
+cd ..
+rm FarOut/
+mv ~/FarOut/ ./
+ls
+cd FarOut/
+ls
+git add -a
+git add -A
+git commit -a
+git push
+ls
+hx main.go
+go run .
+ls
+cd ~/Projects/FarOut/
+ls
+hx go.mod
+go run .
+hx go.mod
+git mod tidy
+go mod tidy
+hx go.mod
+go run .
+cd ~/Projects/FarOut/
+go run .
+go mod
+go mod tidy
+go run .
+hx main.go
+go run .
+sjsd
+go run .
+cd ~/Projects/FarOut/
+go run .
+go install github.com/antonmedv/walk@latest<\n>
+walk
+fm
+walk --icons
+walk -h
+walk
+ps
+ls
+walk --icons
+cd | walk
+walk | cd
+elvish 
+$val
+let val = walk | cd val
+ls
+fman 
+which pkill
+hyprctl clients
+ollama 
+ollama serve
+ollama
+wezterm
+ollama pull wizard-vicuna-uncensored
+ollam run wizard-vicuna-uncensored
+ollama run wizard-vicuna-uncensored
+ollama -h
+ollama rm wizard-vicuna-uncensored
+hx api_key
+ls
+hx ~/Projects/FarOut/main.go
+passwd
+ls
+mkdir .Keys
+ls
+mv api_key .Keys/
+go install github.com/tbckr/sgpt/cmd/sgpt@latest
+which bash
+$.env.OPEN_API_KEY = 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<\n>
+$.env.OPEN_API_KEY = "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"
+hx .Keys/api_key
+sgtp
+sgpt 
+sgpt check
+sgpt check -h
+hx ~/.bashrc
+sgpt check -h
+sgpt check
+hx ~/.config/nushell/env.nu
+hx ~/.config/nushell/config.nu
+$env.OPEN_API_KEY="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"<\n>
+$env.OPEN_API_KEY= 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<\n>
+$env.OPEN_API_KEY= "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"
+$env.OPEN_API_KEY = "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"
+sgpt check
+$env.OPENAI_API_KEY = "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"
+sgpt check
+sgpt chat
+sgpt
+sgpt chat hellp
+sgpt chat "hello"
+sgpt chat
+sgpt --chat
+sgpt "Tell me a story"
+sgpt
+sgpt text --chat "tell me a story"
+sgpt txt --chat "tell me a story"
+sgpt txt --chat -h
+sgpt txt --chat storytime "Tell me a story"
+bash
+sgpt chat ls
+sgpt chat 
+sgpt chat show storytime
+sgpt "mass of the sun"
+pip install shell-gpt
+shell-gpt
+paru -Sy shell-gpt-git
+paru -Sy shell-gpt
+shell-gpt
+go -g
+cd ~/.go/bin/
+ls
+rm sgpt
+cd ..
+ls
+cd ..
+sgpt
+sgpt "mass of the sun"
+hx ~/.config/shell_gpt/.sgptrc
+sgpt "mass of the sun"
+hx ~/.config/shell_gpt/.sgptrc
+sgpt "mass of the sun"
+hx ~/.config/shell_gpt/.sgptrc
+sgpt "mass of the sun"
+hx ~/.config/shell_gpt/.sgptrc
+sgpt "mass of the sun"
+hx ~/.Keys/api_key
+paru -Sy ttf-nerd-fonts-symbols-mono
+paru -Sy elvish
+ls
+hx ~/.config/wezterm/wezterm.lua
+hx ~/.config/nushell/config.nu
+hx ~/.config/elvish/rc.elv
+echo $SHELL
+echo $env.SHELL
+whci elvish
+which elvish
+hx ~/.config/wezterm/wezterm.lua
+ls
+chsh -l
+hx ~/.bashrc
+hx /etc/profile
+hx ~/.bashrc
+elvish 
+elvish
+hx ~/.config/wezterm/wezterm.lua
+wezterm
+hx ~/.config/wezterm/wezterm.lua
+start wezterm
+wezterm start btop
+hx ~/.config/hypr/hyprland.conf
+hyprctl clients
+ls
+sgpt "go fizzbuzz pls"
+ollama run mistral 
+ls
+cat main.go
+"Summarize this file" | ollama run mistral 
+pkill 2434
+pkill ollama
+sudo pkill ollama
+networkctl reload
+sudo networkctl reload
+nmcli
+ls
+chsh
+ls
+thunar
+paru -Sy thunar
+ls
+fstab
+fsck 
+fstab
+findmnt
+clear
+mount
+ls
+ls -a
+mount
+paru -Sy usbimager
+usbimager 
+sudo usbimager 
+ls -l /dev/disk/by-id/usb-*
+lsblk -l
+clear
+hx ~/.config/hypr/hyprland.conf
+hx ~/.config/starship.toml
+elvish
+nu
+supergfxctl 
+supergfxctl  -m
+supergfxctl  -g
+supergfxctl  -s
+supergfxctl  -S
+supergfxctl  -m Integrated
+nu -h
+rnu
+hx ~/.config/nushell/env.nu
+hx ~/.config/nushell/config.nu
+ls
+nu
+hx ~/.config/wezterm/wezterm.lua
+ls
+hx ~/.config/hypr/hyprland.conf
+thorium-browser 
+pacman -R thorium-browser
+sudo pacman -R thorium-browser
+sudo pacman -R thorium
+sudo paru -R thorium
+sudo paru -R chromium 
+sudo paru -R thorium-browser-bin 
+sudo paru -R brave
+sudo paru -R brave-browser
+paru -h
+paru -c
+paru -S hyprland
+clear
+firefox -h
+hx ~/.config/hypr/hyprland.conf
+ls
+iwcd -h
+systemctl restart net-wlan0.device
+systemctl restart NetworkManager.service
+systemctl restart NetworkManager
+iwctl
+networkctl reload
+sudo networkctl reload
+paru install ripasso-cursive
+paru -S ripasso-cursive
+hx OSAP
+paru -Syu
+lxappearance 
+gnome-tweaks 
+gtk-query-settings 
+hx ~/.config/hypr/hyprland.conf
+gtk-config 
+gtk-query-settings 
+sudo pacman -Syu
+gnome-shell 
+gnome-shell-extension-tool 
+ripgrep gtk
+cargo install ripgrep
+cargo update
+cargo
+cargo install ripgrep
+rustup
+rustup update
+cargo install ripgrep
+rg gtk
+rg gtk /
+rg gtk*.ini
+rg gtk*
+rg gtk.
+paru clean
+paru help
+paru -h
+paru -c
+hx .config/gtk-3.0/
+hx .config/gtk-4.0/
+hx .config/gtk-2.0/
+gtk-query-settings 
+rg size | gtk-query-settings 
+gtk-query-settings | rg "size"
+lxsession 
+lxappearance 
+hx .config/gnome-session/
+gtk-config 
+gtk-config -h
+gtk-config gtk
+gtk-config gtk -h
+gnome-tweaks 
+gsettings set org.gnome.desktop.interface cursor-size 14
+gsettings set org.gnome.desktop.interface cursor-size 14
+gsettings set org.gnome.desktop.interface cursor-size 24
+gsettings set org.gnome.desktop.interface cursor-size 22
+ls
+cd Projects/
+ls
+mkdir Sentinels
+cd Sentinels/
+ls
+cargo -h
+cargo init
+ls
+cd src/
+ls
+hx ~/.config/hypr/hyprland.conf
+rustlings
+ls
+cd rustlings
+cd ~
+ls
+rm HuionCore.pid
+rm huion.log
+ls
+mv OSAP Documents/
+cd Documents/
+ls
+cd ..
+ls
+rustlings
+cd Projects/
+mkdir rustlings
+cd rustlings/
+rustlings
+rustlings -h
+rustlings --help
+cd ..
+rm rustlings/
+ls
+cd ..
+cd Projects/
+mkdir rustlings
+cd rustlings/
+# find out the latest version at https://github.com/rust-lang/rustlings/releases/latest (on edit 5.6.1)<\n>git clone -b 5.6.1 --depth 1 https://github.com/rust-lang/rustlings<\n>cd rustlings<\n>cargo install --force --path .
+ls
+cd ..
+ls
+cd rustlings/
+ls
+rustlings watch
+ls
+cd exercises/
+ls
+rustlings --help
+hx README.md
+hx variables/README.md
+hx variables/variables1.rs
+rustlings run variables/variables1.rs
+ls
+cd variables/
+ls
+rustlings run variables1.rs
+rustlings
+cd ..
+ls
+cd ..
+ls
+rustlings 
+hx
+cd rustlings/
+cd Projects/rustlings/
+ls
+cd rustlings/
+ls
+cd exercises/intro/
+hx intro1.rs
+hx intro2.rs
+hx /
+hx ../
+hx ../variables/variables3.rs
+hx ../variables/variables4.rs
+hx ../variables/variables5.rs
+hx ../variables/variables4.rs
+hx ../variables/variables5.rs
+hx ../variables/variables6.rs
+hx --health
+hx ../functions/
+hx ../functions/functions2.rs
+hx ../functions/functions3.rs
+hx ../functions/functions4.rs
+hx ../functions/functions3.rs
+hx ../functions/functions4.rs
+hx ../functions/functions5.rs
+hx ../if/if1.rs
+hx ../if/if2.rs
+hx ../if/if3.rs
+hx ../quiz1.rs
+hx ../primitive_types/
+light -S 1
+pkill ollama
+supergfxctl -h
+supergfxctl -S
+supergfxctl -g
+supergfxctl -S
+asusctl -h
+asusctl fan-curve 
+asusctl fan-curve -g
+asusctl fan-curve -e
+asusctl fan-curve -e CPU
+asusctl fan-curve -e CPU true
+asusctl fan-curve -e true
+asusctl fan-curve -m CPU -e
+asusctl fan-curve -m 'CPU'
+asusctl 
+supergfxctl 
+light -S 100
+light -S 1
+asusctl -h
+asusctl -k low
+asusctl -k off
+asusctl -k low
+cbonsai
+ls
+grim 
+grim -h
+ls
+feh 20231128_10h43m59s_grim.png
+grim - | wl-copy
+ls
+feh 20231128_10h43m59s_grim.png
+clear
+grim
+hx 20231128_10h46m21s_grim.png
+feh 20231128_10h46m21s_grim.png
+feh -h
+grim
+clear
+rm *.png
+feh Media/koi.png
+ls
+clear
+lf
+clear
+ls
+ls | select name
+clear
+ls | select name
+grim
+ls
+mv 20231128_10h54m50s_grim.png rice.png
+cbonsai 
+mkdir dots
+cp * ~/.config/ dots/
+cp * ~/.config/ dots/ --recursive
+ls
+cd dots/
+ls
+cd ..
+ls
+cd dots/
+ls
+cd Downloads/
+ls
+cd ..
+rm dots/
+ls
+rm --recursive dots/
+ls
+cd .config/
+ls
+rm xfce4/
+rm --recursive xfce4/
+rm --recursive zellij
+rm --recursive yay
+rm --recursive BraveSoftware/
+rm --recursive thorium/
+rm --recursive Thunar/
+rm --recursive QtProject.conf
+rm --recursive KeePass/
+ls
+rm --recursive KeePass/ ripasso/
+rm --recursive KeePass/ obsidian/
+rm --recursive KeePass/ leftwm/
+rm --recursive KeePass/ unity3d/
+rm --recursive KeePass/ waybar/
+rm --recursive KeePass/ qt6ct/
+rm --recursive KeePass/ micro/
+rm --recursive KeePass/ dolphinrc
+rm --recursive KeePass/ kritarc
+rm --recursive chromium/ elvish/ eww/
+rm --recursive kitty/
+rm --recursive kwalletrc
+rm --recursive alacritty/
+rm --recursive lutris/
+rm --recursive fish/
+rm --recursive `Foxit Software/`
+rm --recursive blender/
+cp * ~/dots
+cp * ~/dots --recursive
+mkdir ~/dots

@@ -1,0 +1,60 @@
+########################################################
+#######################GRAMMARS#########################
+########################################################
+[[grammar]]
+name = "templ"
+source = {git = "https://github.com/vrischmann/tree-sitter-templ", rev = "9f63037ad08a58050d0582ef1ae0009bd0fbf2f1"}
+
+########################################################
+######################LANGUAGES#########################
+########################################################
+[[language]]
+name = "templ"
+scope = "source.templ"
+grammar = "templ"
+injection-regex = "templ"
+roots = ["go.mod"]
+file-types = ["templ"]
+language-servers = ["templ-language-server", "tailwind-templ", "vscode-css-language-server", "vscode-html-language-server", "htmx"] 
+
+[[language]]
+name = "css"
+scope = "source.css"
+file-types = ["css", "postcss"]
+language-servers = ["tailwind-css", "vscode-css-language-server" ]
+
+[[language]]
+name = "html"
+scope = "text.html"
+file-types = ["html"]
+language-servers = ["tailwind-html", "vscode-html-language-server"]  
+
+########################################################
+######################SERVERS###########################
+########################################################
+
+[language-server.tailwind-html]
+language-id = "html"
+command = "tailwindcss-language-server"
+args = ["--stdio"]
+
+[language-server.tailwind-css]
+language-id = "css"
+command = "tailwindcss-language-server"
+args = ["--stdio"]
+
+[language-server.tailwind-templ]
+language-id = "javascript"
+command = "tailwindcss-language-server"
+args = ["--stdio"]
+
+[language-server.htmx]
+language-id = "templ"
+command = "htmx-lsp"
+args = ["--stdio"]
+
+
+[language-server.templ-language-server]
+language-id = "templ"
+command = "templ"
+args = ["lsp", "-goplsRPCTrace"]

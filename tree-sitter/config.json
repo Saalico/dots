@@ -1,0 +1,57 @@
+{
+  "parser-directories": [
+    "/home/slworp/github",
+    "/home/slworp/src",
+    "/home/slworp/source",
+    "/home/slworp/.config/helix/runtime/grammars"
+  ],
+  "theme": {
+    "attribute": {
+      "color": 124,
+      "italic": true
+    },
+    "function.builtin": {
+      "color": 26,
+      "bold": true
+    },
+    "module": 136,
+    "constant.builtin": {
+      "color": 94,
+      "bold": true
+    },
+    "keyword": 56,
+    "punctuation.delimiter": 239,
+    "variable.parameter": {
+      "underline": true
+    },
+    "property": 124,
+    "number": {
+      "bold": true,
+      "color": 94
+    },
+    "tag": 18,
+    "constructor": 136,
+    "embedded": null,
+    "operator": {
+      "color": 239,
+      "bold": true
+    },
+    "type": 23,
+    "comment": {
+      "italic": true,
+      "color": 245
+    },
+    "string.special": 30,
+    "punctuation.bracket": 239,
+    "constant": 94,
+    "function": 26,
+    "string": 28,
+    "type.builtin": {
+      "color": 23,
+      "bold": true
+    },
+    "variable.builtin": {
+      "bold": true
+    }
+  }
+}

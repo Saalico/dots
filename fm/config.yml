@@ -1,0 +1,11 @@
+settings:
+    start_dir: .
+    show_icons: true
+    enable_logging: false
+    pretty_markdown: true
+    borderless: true
+theme:
+    app_theme: nord
+    syntax_theme:
+        light: pygments
+        dark: dracula
